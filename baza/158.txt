@@ -1,0 +1,6 @@
+X0100
+Proces normalny (gaussowski) to taki proces, którego:
+dystrybuanta jest krzyw¹ Gaussa
+rozk³ad prawdopodobieñstwa jest krzyw¹ Gaussa
+widmowa gêstoœæ mocy jest krzyw¹ Gaussa
+autokorelacja jest krzyw¹ Gaussa

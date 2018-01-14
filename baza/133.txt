@@ -1,0 +1,7 @@
+X10110
+Ergodycznoœæ procesu pozwala na
+zast¹pienie uœredniania po zbiorze uœrednianiem po czasie
+zast¹pienie uœredniania po czasie uœrednianiem po zbiorze
+estymacjê statystyk na podstawie skoñczonego zbioru próbek jednej z realizacji
+wyznaczenie statystyk procesu na podstawie jednej realizacji
+wyznaczenie statystyk procesu z przekroju po czasie

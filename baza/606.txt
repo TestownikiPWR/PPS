@@ -1,0 +1,6 @@
+X0010
+Metody parametryczne estymacji widmowej gêstoœci mocy wymagaj¹:
+podania wczeœniej wartoœci parametrów sygna³u
+zastosowania okna czasowego
+wyznaczenia wartoœci parametrów modelu
+stosowania transformacji Fouriera

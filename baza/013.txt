@@ -1,0 +1,4 @@
+X10
+Prawdopodobienstwa P(H0) i P(H1) to tzw. prawdopodobienstwa:
+apriori
+aposteriori

@@ -1,0 +1,6 @@
+X1100
+Estymator widmowej gêstoœci mocy procesu mo¿na uzyskaæ z zale¿noœci (FT oznacza transformacjê Fouriera)
+[img]059A.png[/img]
+[img]059B.png[/img]
+[img]059C.png[/img]
+[img]059D.png[/img]

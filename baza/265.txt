@@ -1,0 +1,7 @@
+X01000
+Zmienn¹ niezale¿n¹ funkcji autokorelacji jest:
+czas
+przesuniêcie
+czêstotliwoœæ
+wartoœæ chwilowa
+amplituda

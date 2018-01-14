@@ -1,0 +1,6 @@
+X0010
+[img]097.png[/img]
+oknem czasowym
+chwilow¹ wartoœci¹ próbki
+szerokoœci¹ przedzia³u estymacji
+chwilow¹ wartoœci¹ sygna³u

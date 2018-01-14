@@ -1,0 +1,6 @@
+X0100	
+£¹czny rozk³ad prawdopodobieñstwa dwóch niezale¿nych zmiennych losowych X i Y o dystrybuantach F i G, odpowiednio, to:
+wa¿ona suma F i G
+iloczyn F*G 
+suma F+G
+rozk³ad niezale¿ny od F i od G

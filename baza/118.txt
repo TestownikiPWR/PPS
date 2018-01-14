@@ -1,0 +1,6 @@
+X0010
+Metoda Burg'a estymacji widmowej gêstoœci mocy jest metod¹
+nieparametryczn¹
+podprzestrzeni
+parametryczn¹
+efektywn¹

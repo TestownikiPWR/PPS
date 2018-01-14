@@ -1,0 +1,6 @@
+X0100
+Wariancja estymatora opisuje
+rozrzut wyników wokó³ wartoœci dok³adnej estymowanej wielkoœci
+rozrzut wyników wokó³ wartoœci œredniej estymatora
+systematyczn¹ niezgodnoœæ uzyskiwanych wyników z dok³adn¹ estymowan¹ wartoœci¹
+rozrzut wyników wokó³ wariancji

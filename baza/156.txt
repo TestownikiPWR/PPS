@@ -1,0 +1,6 @@
+X0010
+Przestrzeñ probabilistyczna zawiera:
+realizacje
+prawdopodobieñstwa zdarzeñ
+wyniki losowania
+dystrybuanty

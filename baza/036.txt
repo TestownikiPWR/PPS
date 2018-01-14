@@ -1,0 +1,7 @@
+X10000
+[img]036.png[/img]
+definiuje kowariancjê wzajemna procesów stacjonarnych
+definiuje korelacjê wzajemna dowolnych procesów
+nic nie definiuje
+definiuje kowariancjê wzajemna dowolnych procesów
+definiuje korelacjê wzajemna procesów stacjonarnych

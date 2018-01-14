@@ -1,0 +1,7 @@
+X00010
+Zmienn¹ niezale¿n¹ histogramu jest:
+czas
+przesuniêcie
+czêstotliwoœæ
+wartoœæ chwilowa
+amplituda

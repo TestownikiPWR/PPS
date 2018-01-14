@@ -1,0 +1,7 @@
+X01010
+Okno "w" w metodach estymacji widma stosowane jest w celu
+wyciêcia fragmentu sygna³u
+zmniejszenia przecieku widma
+zmniejszenia szerokoœci pasma przejœciowego
+zmniejszenia wariancji estymatora wgm
+wyg³adzenia sygna³u

@@ -1,0 +1,6 @@
+X0100
+[img]100.png[/img]
+funkcjê autokorelacji dowolnego procesu
+funkcjê autokowariancji dowolnego procesu
+funkcjê autokorelacji procesu stacjonarnego
+funkcjê autokowariancji procesu stacjonarnego 

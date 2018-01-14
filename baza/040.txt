@@ -1,0 +1,6 @@
+X0001
+Estymator funkcji autokorelacji procesu zdefiniowany jest zale¿noœci¹
+[img]040A.png[/img]
+[img]040B.png[/img]
+[img]040C.png[/img]
+[img]040D.png[/img]

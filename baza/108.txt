@@ -1,0 +1,7 @@
+X01100
+Estymator
+jest nieskorelowany
+posiada rozk³ad prawdopodobieñstwa
+jest wielkoœci¹ losow¹
+jest wielkoœci¹ deterministyczn¹
+jest statystycznie niezale¿ny 	

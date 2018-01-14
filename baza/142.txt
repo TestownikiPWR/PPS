@@ -1,0 +1,6 @@
+X0001
+Obci¹¿enie estymatora opisuje
+na ile dany wynik bêdzie siê ró¿ni³ od wartoœci dok³adnej
+na ile dany wynik bêdzie siê ró¿ni³ od poprzedniego wyniku
+rozrzut wyników wokó³ wartoœci œredniej wyników estymacji
+na ile œrednio wynik estymacji ró¿ni³ siê bêdzie od dok³adnej wartoœci

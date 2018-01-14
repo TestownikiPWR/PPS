@@ -1,0 +1,6 @@
+X0010
+Wartoœæ funkcji autokowariancji w zerze okreœla jednoczeœnie:
+wartoœæ œredniokwadratow¹ procesu
+energiê procesu
+wariancjê procesu
+moc procesu

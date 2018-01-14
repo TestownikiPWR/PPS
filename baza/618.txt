@@ -1,0 +1,6 @@
+X0001
+Prototypem w transformacji falkowej nazywamy
+wielkoœæ obszaru jaki reprezentuje falka
+pojedyncz¹ falkê
+rodzinê falek
+wzorzec postêpowania podczas generacji falek

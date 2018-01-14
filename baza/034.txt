@@ -1,0 +1,6 @@
+X0001
+W definicji procesu stochastycznego wynikowi losowania przypisuje siê:
+prawdopodobieñstwo
+liczbê rzeczywist¹ lub zespolon¹
+rozk³ad prawdopodobieñstwa
+rzeczywist¹ lub zespolon¹ funkcjê czasu

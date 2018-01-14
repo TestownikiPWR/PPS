@@ -1,0 +1,7 @@
+X00001
+[img]622.png[/img]
+prawdopodobieñstwo fa³szywej akceptacji
+prawdopodobieñstwo poprawnego odrzucenia
+prawdopodobieñstwo fa³szywego odrzucenia
+prawdopodobieñstwo poprawnej akceptacji
+nie ma takiej miary

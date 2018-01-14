@@ -1,0 +1,6 @@
+X0001
+Estymator jest wielkoœci¹ losow¹, poniewa¿ zale¿y od
+liczby próbek
+realizacji próbkowania i kwantowania sygna³u
+wyboru fragmentów realizacji
+wyboru fragmentu realizacji

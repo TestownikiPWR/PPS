@@ -1,0 +1,8 @@
+X000010
+Pojêcie cyklostacjonarnoœci dotyczy:
+dowolnych sygna³ów wolnozmiennych
+sygna³ów ergodycznych
+sygna³ów medycznych
+dowolnych sygna³ów telekomunikacyjnych
+sygna³ów telekomunikacji cyfrowej
+sygna³ów akustycznych 

@@ -1,0 +1,6 @@
+X1000
+Wartoœæ estymatora zwykle ró¿ni siê od wartoœci dok³adnej estymowanej wielkoœci, poniewa¿
+skoñczony zbiór próbek nie jest reprezentowany dla ca³ej realizacji
+operuje na próbkach a b³êdy próbkowania siê nieuniknione
+estymacja realizowana jest w oparciu o jedn¹ realizacjê
+nie dysponujemy wszystkimi realizacjami

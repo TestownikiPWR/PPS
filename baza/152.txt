@@ -1,0 +1,8 @@
+X000100
+[img]152.png[/img]
+dystrybuanty 1. rzêdu
+rozk³adu prawdopodobieñstwa 2. rzêdu
+gêstoœci prawdopodobieñstwa 2. rzêdu
+dystrybuanty 2. rzêdu
+gêstoœci prawdopodobieñstwa 1. rzêdu
+rozk³adu prawdopodobieñstwa 1. rzêdu

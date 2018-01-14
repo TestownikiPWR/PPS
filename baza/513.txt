@@ -1,0 +1,6 @@
+X1000
+Dla systemu inercyjnego przyczynowego:
+jego odpowiedz zale¿y od aktualnej i poprzednich w czasie wartoœci pobudzenia
+jego odpowiedz zale¿y od poprzednich w czasie wartoœci pobudzenia
+jego odpowiedz zale¿y od aktualnej wartoœci pobudzenia
+jego odpowiedz jest minimalnofazowa

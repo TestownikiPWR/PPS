@@ -1,0 +1,6 @@
+X1000
+Estymator zgodny, to taki
+dla którego odleg³oœæ wyników estymacji w sensie statystycznym, maleje ze wzrostem liczby próbek N
+dla którego wyniki s¹ najlepsze z mo¿liwych do uzyskania przy danej liczbie próbek
+b³¹d œredniokwadratowy jest na zadawalaj¹cym poziomie i osi¹ga wartoœæ minimaln¹
+którego obci¹¿enie jest zerowe jeœli liczba próbek jest coraz wiêksza

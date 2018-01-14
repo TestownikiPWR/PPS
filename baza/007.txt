@@ -1,0 +1,6 @@
+X0100
+Niech y(t) oznacza sygnal oryginalny, a v(t) niech oznacza sygnal estymujacy y(t). Blad estymacji definiujemy jako:
+e(t)=[y(t)+v(t)]/2 	
+e(t)=y(t) - v(t)	
+e(t)=[y(t)-v(t)]/[y(t)+v(t)] 	
+e(t)=y(t)+v(t) 

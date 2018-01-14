@@ -1,0 +1,6 @@
+X0001
+[img]122.png[/img]
+gêstoœæ prawdopodobieñstwa 1-go rzêdu
+histogram
+prawdopodobieñstwo wyst¹pienia wartoœci x sygna³u
+dystrubuantê 1-go rzêdu

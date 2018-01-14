@@ -1,0 +1,4 @@
+X01
+Niech H0 oznacza hipotezê "szum" a H1 hipotezê "szum+sygnal". Niech D0 oznacza decyzje "H0 jest prawdziwa" a  D1 niech oznacza decyzje "H1 jest prawdziwa". Prawdopodobienstwo P(D1|H0) to prawdopodobienstwo:
+detekcji sygnalu
+falszywego alarmu

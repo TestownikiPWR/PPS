@@ -1,0 +1,6 @@
+X0100
+Metody parametryczne ró¿ni¹ siê od metod nieparametrycznych estymacji widmowej gêstoœci mocy tym, ¿e
+widmowa gêstoœæ mocy zale¿y od parametrów estymacji
+przyjmowany jest model sygna³u
+zak³adana jest wartoœæ pewnych niezmienników widmowej gêstoœci mocy
+jesteœmy w stanie wyestymowaæ jedynie pewne parametry widmowej gêstoœci mocy

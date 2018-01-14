@@ -1,0 +1,6 @@
+X0001
+Niech E oznacza wartosc oczekiwana a V wariancje zmiennej losowej. Niech e(t) oznacza zmienna losowa okreslajaca blad estymacji. Kryterium sredniokwadratowe, to
+V[e(t)]
+E[e(t)]*E[e(t)]
+E[e(t)/e(t)]
+E[e(t)*e(t)]

@@ -1,0 +1,6 @@
+X1011
+Proces jest ca³kowicie okreœlony, jeœli:
+znane s¹ rozk³ady prawdopodobieñstwa dowolnego rzêdu
+znane s¹ statystyki nieskoñczonego rzêdu
+znane s¹ statystyki dowolnego rzêdu
+znane s¹ dystrubuanty dowolnego rzêdu

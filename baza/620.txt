@@ -1,0 +1,8 @@
+X000001
+W poleceniu MATLAB postaci [b a]=butter(N, [0.2 0.3],'stop') N oznacza
+d³ugoœæ odpowiedzi impulsowej w próbkach
+liczbê pasm czêstotliwoœci
+liczbê zer
+liczbê wspó³czynników równania ró¿nicowego
+stromoœæ pasma przejœciowego
+rz¹d filtru

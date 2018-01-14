@@ -1,0 +1,7 @@
+X00001
+Twierdzenie ergodyczne dla wartoœci œredniej procesu z czasem ci¹g³ym ma postaæ:
+[img]129A.png[/img]
+[img]129B.png[/img]
+[img]129C.png[/img]
+[img]129D.png[/img]
+[img]129E.png[/img]

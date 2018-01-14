@@ -1,0 +1,6 @@
+X1010
+Proces stochastyczny musi:
+musi zawieraæ wiêcej ni¿ jedn¹ realizacjê
+zawieraæ co najmniej jedn¹ realizacjê
+zawiaraæ conajmniej 2 realizacje
+zawiaraæ nieskoñczenie wiele realizacji 	

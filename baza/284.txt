@@ -1,0 +1,6 @@
+X0010
+Niech H0 oznacza hipotezê "szum", a H1 hipotezê "szum+sygna³". Niech D0 oznacza decyzjê "H0 jest prawdziwa", a D1 niech oznacza decyzjê "H1 jest prawdziwa". Prawdopodobieñstwo P(D0|H1) to prawdopodobieñstwo:
+poprawnej akceptacji
+poprawnego odrzucenia
+fa³szywego odrzucenia
+fa³szywej akceptacji

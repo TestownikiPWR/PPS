@@ -1,0 +1,6 @@
+X1000
+[img]187.png[/img]
+widmow¹ gêstoœæ mocy procesu niestacjonarnego
+dystrybuantê 2-go rzêdu procesu niestacjonarnego
+funkcjê autokowariancji procesu niestacjonarnego
+funkcjê autokorelacji procesu niestacjonarnego

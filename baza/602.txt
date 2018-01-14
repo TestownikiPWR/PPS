@@ -1,0 +1,6 @@
+X1000
+Wartoœæ funkcji autokorelacji dla zerowego przesuniêcia to:
+moc procesu
+energia procesu
+wartoœæ œredniokwadratowa procesu
+wariancja procesu

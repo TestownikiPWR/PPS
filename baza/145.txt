@@ -1,0 +1,7 @@
+X00111
+Za³o¿enie o ergodycznoœci pozwala na:
+wyznaczenie statystyk procesu stacjonarnego
+skorzystanie z pojêcia lokalnej stacjonarnoœci
+wyznaczenie estymatorów statystyk procesu na podstawie jednej realizacji
+wyznaczenie statystyk procesu dysponuj¹c jedynie jedn¹ realizacj¹
+zast¹pienie uœredniania po zbiorze uœrednianiem po czasie przy wyznaczaniu statystyk procesu

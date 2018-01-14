@@ -1,0 +1,8 @@
+X100000
+W poleceniu MATLAB postaci b=fir1(N, [0.2 0.3],'stop') N oznacza
+d³ugoœæ odpowiedzi impulsowej w próbkach
+liczbê biegunów
+liczbê par zer
+liczbê zer
+stromoœæ par biegunów
+liczbê pasm czêstotliwoœci

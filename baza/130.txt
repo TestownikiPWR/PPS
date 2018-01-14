@@ -1,0 +1,6 @@
+X1000
+[img]130.png[/img]
+druga pochodna cz¹stkowa dystrybuanty 2-go rzêdu
+druga pochodna cz¹stkowa dystrybuanty 1-go rzêdu
+pochodna dystrybuanty 1-go rzêdu
+pochodna cz¹stkowa dystrybuanty 2-go rzêdu

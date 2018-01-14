@@ -1,0 +1,6 @@
+X0100
+[img]165.png[/img]
+dystrybuantê n-tego rzêdu dowolnego procesu
+moment n-tego rzêdu dowolnego procesu
+autokowariancjê n-tego rzêdu dowolnego procesu
+kumulant n-tego rzêdu dowolnego procesu

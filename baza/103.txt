@@ -1,0 +1,4 @@
+X10
+Czy prawdziwa jest zale¿nosc P(D, H) = P(D|H)P(H)?
+Prawda
+Fa³sz

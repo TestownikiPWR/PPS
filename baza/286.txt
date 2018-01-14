@@ -1,0 +1,9 @@
+X0010001
+[img]286.png[/img]
+jest w³aœciwy
+nie jest w³aœciwy
+zgodnym
+nie jest zgodny
+niezgodnym
+obci¹¿onym
+jest nieobci¹¿ony

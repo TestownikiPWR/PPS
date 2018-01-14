@@ -1,0 +1,7 @@
+X10100
+W ogólnym przypadku, zmienn¹ niezale¿n¹ dystrybuanty I-rzêdu procesu stochastycznego jest:
+czas
+sygna³
+wartoœæ chwilowa sygna³u
+wynik losowania
+prawdopodobieñstwo

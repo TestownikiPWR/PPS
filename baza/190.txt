@@ -1,0 +1,3 @@
+X1
+Niech y(t) oznacza sygna³ oryginalny a v(t) oznacza sygna³ estymujacy y(t). Kryterium œredniokwadratowe to :
+E{[y(t)-v(t)]*[y(t)-v(t)]}

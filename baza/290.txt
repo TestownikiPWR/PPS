@@ -1,0 +1,7 @@
+X00100
+[img]290.jpg[/img]
+nieunormowany wspó³czynnik korelacji
+unormowanhy wspó³czynnik korelacji
+unormowan¹ funkcjê korelacji wzajemnej
+nieunormowan¹ funkcjê korelacji wzajemnej
+nie jest poprawn¹ definicj¹ ani obok wymienionego wspó³czynnika ani funkcji

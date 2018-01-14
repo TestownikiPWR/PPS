@@ -1,0 +1,7 @@
+X01000
+Poziom¹ osi¹ wykresu funkcji autokorelacji jest oœ:
+czasu
+przesuniêcia
+czêstotliwoœci
+wartoœci chwilowej
+amplitudy

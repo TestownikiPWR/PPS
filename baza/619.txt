@@ -1,0 +1,8 @@
+X001000
+Twierdzenie Neymana-Pearsona pozwala na
+wyznaczenie prawdopodobieñstwa a'priori
+wyznaczenie prawdopodobieñstwa fa³szywego odrzucenia
+wyznaczenie rozk³adów prawdopodobieñstwa dla hipotez H0 i H1
+wyznaczenie prawdopodobieñstwa a'posteriori
+wyznaczenie prawdopodobieñstwa fa³szywej akceptacji
+wyznaczenie optymalnego progu detekcji

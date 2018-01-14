@@ -1,0 +1,6 @@
+X0100
+W definicji m(t)=E{x(t)} symbol E oznacza:
+prawdopodobieñstwo
+wartoœæ oczekiwan¹
+œredni¹ geometryczn¹
+œredni¹ arytmetyczn¹

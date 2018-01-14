@@ -1,0 +1,8 @@
+X001000
+Estymacja to 
+oszacowanie statystyki b¹dŸ parametru procesu stochastycznego na podstawie jednej realizacji
+oszacowanie wartoœci sygna³u analogowego na podstawie próbek sygna³u
+oszacowanie statystyki b¹dŸ parametru procesu stochastycznego na podstawie skoñczonego zbioru próbek jednej z realizacji
+oszacowanie przysz³ej wartoœci procesu stochastycznego na podstawie zbioru próbek
+oszacowanie statystyki lub parametru procesu stochastycznego na podstawie skoñczonego zbioru próbek kilku realizacji
+odtworzenie sygna³u analogowego na podstawie próbek sygna³u cyfrowego

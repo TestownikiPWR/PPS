@@ -1,0 +1,8 @@
+X010000
+Procesy stochastyczne stacjonarne, dla których funkcja korelacji wzajemnej jest równa zero dla dowolnego opóŸnienia nazywamy procesami:
+zerowymi
+ortogonalnymi
+lokalnie stacjonarnymi
+liniowo-niezale¿nymi
+statystycznie niezale¿nymi
+niepowi¹zanymi 	

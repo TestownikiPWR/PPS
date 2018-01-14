@@ -1,0 +1,6 @@
+X0001
+W przypadku stacjonarnym, zmienn¹ niezale¿n¹ dystrybuanty I rzêdu jest
+czêstotliwoœæ
+czas
+opóŸnienie
+wartoœæ chwilowa sygna³u

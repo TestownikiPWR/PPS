@@ -1,0 +1,7 @@
+X10000
+[img]184.png[/img]
+wartoœæ œredni¹ procesu stochastycznego
+funkcjê autokorelacji procesu stochastycznego
+wartoœæ œredniokwadratow¹ procesu stochastycznego
+wariancjê procesu stochastycznego
+rozk³ad prawdopodobieñstwa procesu stochastycznego

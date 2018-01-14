@@ -1,0 +1,6 @@
+X1000
+Realizacj¹ procesu nazywamy:
+pojedyncz¹ funkcjê bêd¹c¹ wynikiem losowania
+opisanie procesu za pomoc¹ statystyk
+przekrój procesu dla ustalonego wyniku losowania
+zbiorem wszystkich funkcji, które sk³adaj¹ siê na proces

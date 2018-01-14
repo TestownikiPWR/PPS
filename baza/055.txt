@@ -1,0 +1,7 @@
+X00010
+Poziom ufnoœci opisuje
+pewnoœæ, ¿e wynik estymacji znajdzie siê poza przedzia³em ufnoœci
+pewnoœæ, ¿e wynik estymacji znajdzie siê w przedziale ufnoœci
+ryzyko, ¿e wynik estymacji znajdzie siê w przedziale ufnoœci
+prawdopodobieñstwo, ¿e wynik estymacji znajdzie siê w przedziale ufnoœci
+prawdopodobieñstwo, ¿e wynik estymacji znajdzie siê poza przedzia³em ufnoœci 	

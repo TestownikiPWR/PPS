@@ -1,0 +1,7 @@
+X00100
+[img]065.png[/img]
+ci¹giem bitów zawieraj¹cych informacjê
+sygna³em dyskretnym przed modulacj¹
+ci¹giem symboli zawieraj¹cych informacjê
+ci¹giem wartoœci odpowiadaj¹cych bitom
+ci¹giem wartoœci odpowiadaj¹cych symbolom

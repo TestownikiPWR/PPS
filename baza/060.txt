@@ -1,0 +1,4 @@
+X01
+Zalozmy, ze rozklady hipotezy H0 i H1 sa gaussowskie (normalne) z parametrami odpowiednio m0, s0 oraz m1, s1.#13Wspolczynnik detekowalnosci klas (separowalnosci) zalezy od |m0-m1|:
+odwrotnie proporcjonalnie
+wprost proporcjonalnie	
