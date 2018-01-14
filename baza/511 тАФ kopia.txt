@@ -1,8 +1,0 @@
-X010000
-[img]pyt.png[/img]
-[img]511A.png[/img]
-[img]511B.png[/img]
-[img]511C.png[/img]
-[img]511D.png[/img]
-[img]511E.png[/img]
-[img]511F.png[/img]
