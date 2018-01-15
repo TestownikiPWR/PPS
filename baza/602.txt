@@ -1,4 +1,4 @@
-X1000
+X1010
 Wartoœæ funkcji autokorelacji dla zerowego przesuniêcia to:
 moc procesu
 energia procesu

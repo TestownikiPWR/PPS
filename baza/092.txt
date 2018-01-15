@@ -1,4 +1,4 @@
-X1010
+X0010
 Niech y(t) bedzie sygnalem stacjonarnym, drugiego rzedu. Niech E oznacza operator usredniania probabilistycznego. Niech c oznacza funkcje kowariancji. Ktora z ponizszych zaleznosci jest prawdziwa?
 E[y(t-i)y(t-k)]=c(i-k)
 E[y(t-i)y(t-k)]=c(i+k)

@@ -1,6 +1,7 @@
-X1100
+X11000
 Proces stochastyczny od zmiennej losowej ró¿ni siê:
-dwoma zmiennymi niezale¿nymi
+posiadaniem dwóch zmiennych niezale¿nych
 posiadaniem jeszcze jednej zmiennej niezale¿nej jak¹ zwykle jest czas
 kszta³tem rozk³adu prawdopodobieñstwa
 posiadanie jeszcze jednej zmiennej losowej jaka zwykle jest czas
+dwoma zmiennym niezale¿nymi

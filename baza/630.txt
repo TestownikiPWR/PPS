@@ -1,0 +1,6 @@
+X0100
+Metoda Cooley'a:
+jest metod¹ parametryczna
+jest metod¹ nieparametryczna
+jest metod¹ podprzestrzeni
+wymaga estymacji parametrów modelu

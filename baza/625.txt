@@ -1,0 +1,6 @@
+X0001
+[img]625.png[/img]
+przesuniêcie sygna³u w dziedzinie czasu
+skalowanie wartoœci sygna³u
+przesuniêcie sygna³u w dziedzinie wartoœci
+skalowanie w dziedzinie czasu

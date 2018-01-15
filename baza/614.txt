@@ -1,5 +1,5 @@
 X0100
-Metoda Welcha
+Metoda Welcha:
 jest metod¹ parametryczna
 jest metod¹ nieparametryczna
 jest metod¹ podprzestrzeni

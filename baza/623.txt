@@ -1,0 +1,8 @@
+X000100
+Zasada nieoznaczonoœci w transformacji falkowej odnosi siê do
+niemo¿noœci dok³adnego okreœlenia po³o¿enia falki na osi czêstotliwoœci
+niemo¿noœci dok³adnego okreœlenia czêstotliwoœci sygna³u sinusoidalnego
+niemo¿noœci dok³adnego okreœlenia po³o¿enia falki na osi czasu
+niewystarczaj¹cej dok³adnoœci zarówno w dziedzinie czasu jak i czêstotliwoœci
+tylko niewystarczaj¹cej dok³adnoœci w dziedzinie czêstotliwoœci
+tylko niewystarczaj¹cej dok³adnoœci w dziedzinie czasu

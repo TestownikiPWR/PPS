@@ -1,7 +1,12 @@
-X10101
+X1010111111
 Zaznacz w³aœciwoœci spe³niane przez funkcjê autokorelacji procesu stacjonarnego:
 [img]057A.png[/img]
 [img]057B.png[/img]
 [img]057C.png[/img]
 [img]057D.png[/img]
 [img]057E.png[/img]
+jest parzysta
+Ma wartoœæ maksymaln¹ w 0
+[img]057F.png[/img]
+[img]057G.png[/img]
+[img]057H.png[/img]
