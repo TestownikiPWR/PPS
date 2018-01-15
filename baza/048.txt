@@ -1,0 +1,7 @@
+X00100
+[img]048.png[/img]
+s¹ liniow¹ kombinacj¹
+s¹ liniowo ortonormalne
+mog¹ byæ elemntami bazy R^N	
+[img]048D.png[/img]
+stanowi¹ bazê przestrzeni R^N

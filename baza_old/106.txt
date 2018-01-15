@@ -1,0 +1,6 @@
+X1000
+Wartoœciowoœæ modulacji jest to
+liczba wartoœci jaka mo¿e przyj¹æ ka¿dy z symboli
+liczba opisuj¹ca efektywnoœæ modulacji
+liczba noœnych u¿ytych w modulacji
+liczba bitów zajmowanych przez pojedynczy symbol 

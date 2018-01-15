@@ -1,0 +1,7 @@
+X11100
+Opracowanie szybkiej transformacji Fouriera bazuje na nastêpuj¹cych w³aœciwoœciach funkcji bazowych
+nieparzystoœæ funkcji sinus
+okresowoœæ
+parzystoœæ funkcji cosinus
+rzeczywistoœæ funkcji bazowych
+ograniczonoœæ funkcji bazowych w czasie

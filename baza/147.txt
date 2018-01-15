@@ -1,0 +1,9 @@
+X0100011
+Po stronie nadawczej realizowane s¹ nastêpuj¹ce operacje
+dekompresja
+kodowanie
+odtwarzanie noœnej
+filtracja optymalna
+filtracja odszumiaj¹ca
+kompresja
+formowanie bloków i segmentów

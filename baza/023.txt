@@ -1,0 +1,6 @@
+X1010
+Prawdziwe jest stwierdzenie:
+odpowiedü impulsowa jest odwrotnπ transformatπ Fouriera funkcji transmitancji
+funkcja transmitancji jest odwrotnπ transformatπ Fouriera z odpowiedzi impulsowej
+funkcja transmitancji jest transformata Fouriera z odpowiedzi impulsowej
+odpowiedü impulsowa jest transformatπ Fouriera z funkcji transmitancji

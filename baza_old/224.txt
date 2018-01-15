@@ -1,0 +1,6 @@
+X1000
+Filtry cyfrowe eliptyczne charakteryzuj¹ siê
+zafalowaniami w pasmach przepustowym i zaporowym
+zafalowaniami tylko w paœmie zaporowym
+zafalowaniami tylko w paœmie przepustowym
+maksymalnie p³askim modu³em funkcji transmitancji

@@ -1,0 +1,7 @@
+X00010
+[img]170.png[/img]
+s¹ ortonormalne
+s¹ ortogonalne i ortonormalne
+s¹ ortogonalne
+nale¿¹ do innych przestrzeni
+s¹ dwoma wektorami bazy przestrzeni R^N 

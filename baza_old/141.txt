@@ -1,0 +1,6 @@
+X1101
+[img]141.png[/img]
+oknem czasowym kszta³tuj¹cym widmo sygna³u
+filtrem nadawczym
+oknem czêstotliwoœciowym kszta³tuj¹cym widmo sygna³u
+filtrem transmisyjnym

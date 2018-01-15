@@ -1,0 +1,9 @@
+X0010001
+Estymator [img]286.jpg[/img] jest estymatorem
+jest w³aœciwy
+nie jest w³aœciwy
+zgodnym
+nie jest zgodny
+niezgodnym
+obci¹¿onym
+jest nieobci¹¿ony

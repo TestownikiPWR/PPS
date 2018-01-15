@@ -1,0 +1,6 @@
+X0100
+Jaka jest rozdzielczoœæ widma (odleg³oœæ pomiêdzy dwoma s¹siednimi pr¹¿kami widma) (N -- liczba próbek sygna³u poddawanego DFT, f_s -- czêstotliwoœæ próbkowania)
+[img]179A.png[/img]
+[img]179B.png[/img]
+[img]179C.png[/img]
+[img]179D.png[/img]

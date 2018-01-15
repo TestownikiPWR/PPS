@@ -1,0 +1,8 @@
+X100000
+[img]201.png[/img]
+liczbê zespolon¹
+liczbê rzeczywist¹
+liczbê urojon¹
+funkcje zespolon¹
+funkcjê rzeczywist¹
+funkcjê urojon¹

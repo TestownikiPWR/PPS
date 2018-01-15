@@ -1,0 +1,3 @@
+X1
+Na czym polega obecnie optymalizacja dzia³ania filtrów?
+minimalizowanie z³o¿onoœci obliczeniowej.

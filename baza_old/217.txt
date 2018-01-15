@@ -1,0 +1,8 @@
+X111000
+Bieguny posiadaj¹
+filtry Butterworth'a
+filtry eliptyczne
+filtry Czebyshev'a
+filtry Ramez'a
+filtry decymacyjne
+filtry typu FIR

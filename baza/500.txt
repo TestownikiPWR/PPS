@@ -1,0 +1,8 @@
+X000100
+10 bitowy przetwornik i zakres napiêcia -5 do 5V i policzyæ maksymalne napiêcie szumu kwantyzacji:
+0,1
+0,05
+~0,0096
+~0,00048
+1
+1,024

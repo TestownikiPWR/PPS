@@ -1,0 +1,6 @@
+X0010
+Interpolacja to proces
+zmniejszania wartoœci próbek
+zmniejszania czêstotliwoœci próbkowania
+zwiêkszania czêstotliwoœci próbkowania
+zwiêkszania wartoœci próbek

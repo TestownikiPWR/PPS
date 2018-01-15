@@ -1,0 +1,6 @@
+X0010
+Decymacja to proces
+zwiêkszania czêstotliwoœci próbkowania
+zwiêkszania wartoœci próbek
+zmniejszania czêstotliwoœci próbkowania
+zmniejszania wartoœci próbek

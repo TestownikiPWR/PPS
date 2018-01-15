@@ -1,0 +1,6 @@
+X1000
+Wszystkie zera wewn¹trz okrêgu posiada filtr:
+minimalnofazowy
+maksymalnofazowy
+aaa
+bbb

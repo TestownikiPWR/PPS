@@ -1,0 +1,7 @@
+X10100
+Filtry typu IIR (o nieskoñczonej d³ugoœci odpowiedzi impulsowej)
+posiadaj¹ bieguny
+nie posiadaj¹ biegunów
+mog¹ byæ niestabilne
+s¹ zawsze stabilne
+nie posiadaj¹ zer

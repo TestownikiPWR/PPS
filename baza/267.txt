@@ -1,0 +1,7 @@
+X00100
+Zmienn¹ niezale¿n¹ widma amplitudowego jest:
+czas
+przesuniêcie
+czêstotliwoœæ
+wartoœæ chwilowa
+amplituda

@@ -1,0 +1,8 @@
+X010000
+[img]004.png[/img]
+dyskretny na czêstotliwoœci poœredniej
+analogowy w paœmie podstawowym
+dyskretny w paœmie podstawowym
+dyskretny na czêstotliwoœci noœnej
+analogowy na czêstotliwoœci noœnej
+analogowy na czêstotliwoœci poœredniej 

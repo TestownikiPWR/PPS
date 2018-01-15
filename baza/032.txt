@@ -1,0 +1,6 @@
+X0100
+Dyskretna odwrotna transformata Fouriera zdefiniowana jest zale¿noœci¹
+[img]032A.png[/img]
+[img]032B.png[/img]
+[img]032C.png[/img]
+[img]032D.png[/img]

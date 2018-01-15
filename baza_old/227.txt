@@ -1,0 +1,6 @@
+X0010
+Wspó³czynniki filtru FIR (o skoñczonej odpowiedzi impulsowej) to
+zera i bieguny filtru
+wartoœci pr¹¿ków widma sygna³u wejœciowego filtru
+ci¹g wartoœci odpowiedzi impulsowej filtru
+transformata Fouriera odpowiedzi impulsowej

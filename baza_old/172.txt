@@ -1,0 +1,6 @@
+X0010
+Lokalna stacjonarnoœæ oznacza:
+podobieñstwo grup realizacji procesu
+cyklicznoœæ zmian gêstoœci prawdopodobieñstwa
+niewielkie zmiany w sygnale na krótkim odcinku czasu
+s³ab¹ stacjonarnoœæ w po³¹czeniu ze skoñczonym czasem trwania procesu

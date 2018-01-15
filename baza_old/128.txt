@@ -1,0 +1,6 @@
+X0001
+Aliasing to
+przesuniêcie fazy pr¹¿ka DFT
+to samo co przeciek widma
+rozmycie pr¹¿ka DFT
+nak³adanie siê na siebie widma oryginalnego i widma powtarzanego w otoczeniu po³owy czêstotliwoœci próbkowania

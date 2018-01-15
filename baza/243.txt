@@ -1,0 +1,8 @@
+X001111
+Oznaczenia: x(n) - sygna≥ wejúciowy, h(n) - odpowiedü impulsowa uk≥adu, y(n) - sygna≥ wyjúciowy. Dla uk≥adu dyskretnego niezmiennego w czasie prawdziwa jest/sπ poniøsze formu≥y
+[img]243A.png[/img]
+[img]243B.png[/img]
+[img]243C.png[/img] (splot)
+[img]243D.png[/img] (splot)
+[img]243E.png[/img]
+[img]243F.png[/img]

@@ -1,0 +1,8 @@
+X010110
+Zwiêkszenie liczby próbek w estymacji funkcji autokorelacji procesu wp³ywa na:
+zwiêkszenie obci¹¿enia estymatora
+zmniejszczenie obci¹¿enia estymatora
+zwiêkszenie wariancji estymatora
+zmniejszenie wariancji estymatora
+zwiêkszenie czasu obliczeñ
+zmniejszenie czasu obliczeñ

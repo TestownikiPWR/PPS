@@ -1,0 +1,6 @@
+X0100
+Wynikiem transformacja Fouriera sygna³u rzeczywistego w ogólnym przypadku jest
+liczba rzeczywista
+funkcja zespolona
+liczba zespolona
+funkcja rzeczywista

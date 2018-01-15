@@ -1,0 +1,6 @@
+X1000
+Filtry cyfrowe Butterworth'a charakteryzuj¹ siê
+maksymalnie p³askim modu³em funkcji transmitancji
+minimaln¹ szerokoœci¹ pasma przejœciowego
+maksymalnym t³umieniem w paœmie zaporowym
+minimalnym t³umieniem w paœmie przepustowym

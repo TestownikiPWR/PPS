@@ -1,0 +1,7 @@
+X00011
+Przeciek widma w wyniku transformacji Fouriera wystêpuje poniewa¿
+sygna³ nie jest symetryczny
+wystêpuj¹ b³êdy kwantowania
+wystêpuj¹ b³êdy próbkowania
+dokonano uzupe³nienia sygna³u zerowymi próbkami
+wystêpuje efekt obciêcia

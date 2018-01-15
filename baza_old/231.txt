@@ -1,0 +1,8 @@
+X111100
+Przestrzeñ Hilberta:
+jest zupe³na
+ma metrykê
+jest liniowa
+jest unitarna
+nie jest unormowana
+jest nieliniowa

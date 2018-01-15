@@ -1,0 +1,6 @@
+X0100
+[img]151.png[/img]
+ca³kowita moc sygna³u   	
+ca³kowit¹ energiê sygna³u
+chwilow¹ wartoœæ œredni¹ sygna³u
+ca³kowit¹ wariancjê sygna³u

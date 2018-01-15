@@ -1,0 +1,8 @@
+X010000
+Poprawny wzór na obliczanie funkcji autokorelacji sygna³u determistycznego z przestrzeni L^2(0,T) ma postaæ:
+[img]283A.jpg[/img]
+[img]283B.jpg[/img]
+[img]283C.jpg[/img]
+[img]283D.jpg[/img]
+[img]283E.jpg[/img]
+[img]283F.jpg[/img]

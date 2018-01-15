@@ -1,0 +1,14 @@
+X010001000000
+[img]031.png[/img]
+[img]031A.png[/img]
+nie rozpinaj¹ ¿adnej przestrzeni
+[img]031C.png[/img]
+[img]031D.png[/img]
+[img]031E.png[/img]
+nie spe³niaj¹ warunków na bazê przestrzeni
+[img]031G.png[/img]
+[img]031H.png[/img]
+przestrzeñ wektorów o rozmiarze N o wartoœciach rzeczywistych
+przestrzeñ wektorów o rozmiarze N o wartoœciach zespolonych
+[img]031K.png[/img]
+[img]031L.png[/img]

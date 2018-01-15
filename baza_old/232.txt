@@ -1,0 +1,7 @@
+X11000
+Filtracja innowacyjna nazywana jest czasem liniow¹ predykcj¹, gdy¿:
+przesz³e próbki sygna³u przekszta³cane s¹ operatorem liniowym
+estymator bie¿¹cej próbki wyznaczany jest przez liniow¹ kombinacjê próbek przesz³ych sygna³u
+przesz³e próbki sygna³u przekszta³cane s¹ na liniowy sygna³ wyjœciowy
+jest to proces przewidywania (predykcji) sygna³u b³êdu
+jest to proces przewidywania (predykcji) liniowego sygna³u b³êdu

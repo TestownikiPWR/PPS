@@ -1,0 +1,8 @@
+X100000
+W poleceniu MATLAB postaci [b a] = butter (N, [0.2 0.3], 'stop'), N oznacza
+liczbê par biegunów
+liczbê biegunów
+liczbê par zer
+liczbê zer
+d³ugoœæ odpowiedzi impulsowej w próbkach
+liczbê pasm czêstotliwoœci

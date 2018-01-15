@@ -1,0 +1,6 @@
+X1000
+Okno w metodzie okna projektowania filtrów cyfrowych stosowane jest w celu
+zwiêkszenia t³umienia w paœmie zaporowym
+zmniejszenia t³umienia w paœmie przepustowym
+zmniejszenia szerokoœci pasma przejœciowego
+likwidacji przecieku widma

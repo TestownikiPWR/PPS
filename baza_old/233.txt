@@ -1,0 +1,6 @@
+X0001
+Filtracja optymalna (znana te¿ jako filtracja innowacyjna) zawdziêcza swoj¹ nazwê
+innowacyjnemu, nowatorskiemu i optymalnemu traktowaniu próbek sygna³u jako wspó³czynniki filtru
+innowacyjnemu, nowatorskiemu i optymalnemu traktowaniu próbek sygna³u jako estymatory wspó³czynników filtru
+optymalizacji innowacyjnej liczonej z estymatora wspó³czynnikow filtru
+minimalizacji b³êdu œredniokwadratowego estymacji bie¿¹cej próbki sygna³u

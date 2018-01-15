@@ -1,0 +1,8 @@
+X111100
+Struktury filtrów cyfrowych ró¿ni¹ siê
+iczba elementów opóŸniaj¹cych
+liczba elementów mno¿¹cych
+liczb¹ elementów sumuj¹cych
+wra¿liwoœci¹ na b³êdy zaokr¹gleñ wspó³czynników filtru
+wra¿liwoœci¹ na b³êdy kwantowania
+liczb¹ zer i biegunów

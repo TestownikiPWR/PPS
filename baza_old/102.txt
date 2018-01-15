@@ -1,0 +1,4 @@
+Y231
+Stabilnoœæ filtru/systemu w sensie {wybór 1} oznacza, ¿e dla {wybór 2}.
+FIR;;IIR;;BIBO;;œrednio-kwadratowym;;œrednim;;
+ograniczonego sygna³u wejœciowego, sygna³ wyjœciowy te¿ bêdzie ograniczony;;dla dowolnego sygna³u wejœciowego, sygna³ wyjœciowy bêdzie skoñczony;;pobudzenia skokiem jednostkowym, odpowiedŸ bêdzie skoñczona;;

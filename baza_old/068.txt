@@ -1,0 +1,14 @@
+X000001010000
+[img]068.png[/img]
+[img]068A.png[/img]
+nie spe³niaj¹ warunków na bazê przestrzeni 
+[img]068C.png[/img]
+[img]068D.png[/img]
+[img]068E.png[/img]
+przestrzeñ wektorów o rozmiarze N o wartoœciach zespolonych
+[img]068G.png[/img]
+[img]068H.png[/img]
+nie rozpinaj¹ ¿adnej przestrzeni 
+[img]068J.png[/img]
+[img]068K.png[/img]
+przestrzeñ wektorów o rozmiarze N o wartoœciach rzeczywistych 

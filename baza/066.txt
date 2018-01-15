@@ -1,0 +1,4 @@
+Y213
+Kwantyzacja to proces polegaj¹cy na {wybór 1}, przy czym {wybór 2}.
+przypisaniu próbkom poszczególnych poziomów;;pobieraniu próbek sygna³u ci¹g³ego co okreœlony kwant czasu;;testowaniu czy kwant czasu siê ju¿ skoñczy³;;
+iloœæ próbek wynika z przyjêtego kwantu czasu (czêstotliwoœæ próbkowania);;logiczne '0' oznacza, ¿e kwant czasu jeszcze trwa, a logiczne '1' oznacza, ¿e w³aœnie siê skoñczy³;;iloœæ poziomów wynika z liczby bitów przetwornika;;

@@ -1,0 +1,6 @@
+X1000
+W celu uzyskania czêstotliwoœci unormowanej (przy projektowaniu filtrów cyfrowych)
+rzeczywist¹ czêstotliwoœæ dzielimy przez czêstotliwoœci próbkowania
+rzeczywist¹ czêstotliwoœæ dzielimy przez podwójn¹ czêstotliwoœci próbkowania
+czêstotliwoœci próbkowania dzielimy przez rzeczywist¹ czêstotliwoœæ
+czêstotliwoœæ próbkowania dzielimy przez podwójna rzeczywist¹ czêstotliwoœæ

@@ -1,0 +1,8 @@
+X100001
+Transformata Z jest równa transformacie Fouriera, jeœli
+|z| = 1
+z = 1
+|z| = 0
+z = oo
+|z| = oo
+z = e^jw

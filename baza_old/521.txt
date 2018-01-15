@@ -1,0 +1,9 @@
+X1010000
+Modu³ widma sygna³u rzeczywistego dyskretnego o d³ugoœci N jest:
+funkcj¹ patrzyst¹
+funkcj¹ dyskretn¹
+funkcj¹ o wartoœciach dodatnich
+funkcj¹ ci¹g³¹ 
+funkcj¹ nieparzyst¹
+funkcj¹ o wartoœciach rzeczywistych
+funkcj¹ o wartoœciach zespolonych

@@ -1,0 +1,6 @@
+X0100
+W wyniku N-punktowej DFT powstaje ci¹g N-elementowy. W ci¹gu tym liczba niezale¿nych wyrazów wynosi
+N-1
+N/2
+2N
+N

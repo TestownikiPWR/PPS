@@ -1,0 +1,7 @@
+X00010
+Proces jest s³abo stacjonarny, jeœli spe³niony jest warunek/warunki:
+[img]136A.png[/img]
+[img]136B.png[/img]
+[img]136C.png[/img]
+[img]136D.png[/img]
+[img]136E.png[/img]

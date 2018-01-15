@@ -1,0 +1,6 @@
+X1000
+Która z zale¿noœci jest wzorem definicyjnym dyskretnej transformaty Fouriera (DFT):
+[img]177A.png[/img]
+[img]177B.png[/img]
+[img]177C.png[/img]
+[img]177D.png[/img]

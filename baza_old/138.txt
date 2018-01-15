@@ -1,0 +1,8 @@
+X000100
+Zaznacz poprawne formu³y opisuj¹ce splot w dziedzinie czasu. n, k  oznaczaj¹ odpowiednio dyskretny czas i dyskretn¹ czêstotliwoœæ. 
+[img]138A.png[/img]
+[img]138B.png[/img]
+[img]138C.png[/img]
+[img]138D.png[/img]
+[img]138E.png[/img]
+[img]138F.png[/img]

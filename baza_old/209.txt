@@ -1,0 +1,8 @@
+X110100
+Do zbudowania grafu przep³ywu filtra cyfrowego potrzebne s¹ elementy
+mno¿¹ce próbkê przez liczbê
+sumuj¹ce 2 próbki
+sumuj¹ce kilka próbek
+opóŸniaj¹ce
+rotuj¹ce
+mno¿¹ce próbki

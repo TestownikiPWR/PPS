@@ -1,0 +1,10 @@
+X10010001
+Wska¿ prawdziwe wyra¿enia dla funkcji Delta Kroneckera i sygna³u ci¹g³ego x(n).
+[img]042A.png[/img]
+[img]042B.png[/img]
+[img]042C.png[/img]
+[img]042D.png[/img]
+[img]042E.png[/img]
+[img]042F.png[/img]
+[img]042G.png[/img]
+[img]042H.png[/img]

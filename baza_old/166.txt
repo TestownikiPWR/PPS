@@ -1,0 +1,7 @@
+X01000
+[img]166.png[/img]
+z kluczowaniem amplitudy
+z kluczowaniem czêstotliwoœci
+fazy
+z kluczowaniem fazy
+amplitudy

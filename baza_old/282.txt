@@ -1,0 +1,6 @@
+X0001
+W celu uzyskania czêstotliwoœci unormowanej (przy projketowaniu filtrów cyfrowych):
+czêstotliwoœæ próbkowania dzielimy przez podwójn¹ czêstotliwoœæ nieunormowan¹ 
+czêstotliwoœæ nieunormowan¹ dzielimy przez podwójn¹ czêstotliwoœæ próbkowania
+czêstotliwoœæ próbkowania dzielimy przez czêstotliwoœæ nieunormowan¹ 
+czêstotliwoœæ nieunormowan¹ dzielimy przez czêstotliwoœæ próbkowania

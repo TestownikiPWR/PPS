@@ -1,0 +1,9 @@
+X1010000
+Zaznacz poprawne formu³y opisuj¹ce splot w dziedzinie dzêstotliwoœci. n , k  oznaczaj¹ odpowiednio dyskretny czas i dyskretn¹ czêstotliwoœæ.
+[img]072A.png[/img]
+[img]072B.png[/img]
+[img]072C.png[/img]
+[img]072D.png[/img]
+[img]072E.png[/img]
+[img]072F.png[/img]
+[img]072G.png[/img]

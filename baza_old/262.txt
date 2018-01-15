@@ -1,0 +1,7 @@
+X00010
+Poziom¹ osi¹ wykresu histogramu jest oœ:
+czasu
+przesuniêcia
+czêstotliwoœci
+wartoœci chwilowej
+amplitudy

@@ -1,0 +1,4 @@
+X01
+Operator liniowy, to taki 
+którego wspó³czynniki le¿¹ na linii prostej
+który spe³nia zasadê superpozycji

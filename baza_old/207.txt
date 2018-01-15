@@ -1,0 +1,8 @@
+X111000
+Filtry typu FIR (o skoñczonej d³ugoœci odpowiedzi impulsowej)
+s¹ zawsze stabilne
+mog¹ mieæ liniow¹ fazê
+nie posiadaj¹ biegunów
+nie posiadaj¹ zer
+mog¹ byæ niestabilne
+posiadaj¹ liniow¹ fazê

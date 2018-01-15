@@ -1,0 +1,4 @@
+X10
+Wspó³czesne komputery nie s¹ w stanie zapamiêtaæ w pamiêci wszystkich wartoœci sygna³u ci¹g³ego.
+True
+False

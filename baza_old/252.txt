@@ -1,0 +1,3 @@
+X1
+Dla macierzy wektorów bazowych B wygenerowanej poleceniem B=2*eye(3) i wektora w=[2*3, 2*1, 2*-3] wyznacz iloczyn skalarny wektora z³o¿onego ze wspó³czynników reprezentacji wektora w.
+3^2 + 1^2 + (-3)^2 = 14

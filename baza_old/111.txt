@@ -1,0 +1,6 @@
+X0111
+Dla procesu ca³kowicie stacjonarnego spe³niony jest warunek lub warunki:
+[img]111A.png[/img]
+[img]111B.png[/img]
+[img]111C.png[/img]
+przesuniêcie punktu obserwacji nie zmienia rozk³adów pradopodobienstwa procesu

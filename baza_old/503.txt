@@ -1,0 +1,9 @@
+X0010000
+Metoda Blackmana:
+jest metod¹ podprzestrzeni
+jest metod¹ parametryczn¹
+jest metod¹ nieparametryczn¹
+wymaga estymacji funkcji autokorelacji
+wymaga estymacji parametrów modelu
+wymaga okienkowania
+bazuje na modelu AR sygna³u

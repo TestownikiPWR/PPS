@@ -1,0 +1,6 @@
+X1000
+Wartoœæ funkcji autokorelacji w zerze okreœla jednoczeœnie:
+moc procesu
+wartoœæ œredniokwadratow¹ procesu
+energê procesu
+wariancjê procesu

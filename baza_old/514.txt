@@ -1,0 +1,7 @@
+X00001
+Sygna³ ci¹g³y poddano próbkowaniu z czêstotliwoœci¹ próbkowania fs = 1.2kHz i uzyskano N = 1000 próbek sygna³u. Nastêpnie wyznaczono transformatê Fouriera tego sygna³y za pomoc¹ algorytmu FFT o d³ugoœci Nf = 2^10 próbek (uzupe³nienie zerowymi próbkami). Jak¹ rozdzielczoœæ w Hz ma uzyskane widmo sygna³u tzn. o il Hz oddalone s¹ od siebie kolejne pr¹¿ki widma.
+ok.0,833
+ok.2,344
+1,2
+ok.0,853
+ok.1,172

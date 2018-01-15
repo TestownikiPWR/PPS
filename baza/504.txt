@@ -1,0 +1,4 @@
+X10
+Wszystkie zera wewn¹trz okrêgu posiada filtr:
+minimalnofazowy
+maksymalnofazowy

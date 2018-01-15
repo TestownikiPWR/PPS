@@ -1,0 +1,7 @@
+X10000
+Filtr cyfrowy jest stabilny, jeœli
+bieguny transmitancji le¿¹ wewn¹trz okrêgu jednostkowego
+zera transmitancji le¿¹ wewn¹trz okrêgu jednostkowego
+zera i bieguny transmitancji le¿¹ wewn¹trz okrêgu jednostkowego
+bieguny transmitancji le¿¹ w lewej pó³p³aszczyŸnie
+zera transmitancji le¿¹ w lewej pó³p³aszczy¿nie

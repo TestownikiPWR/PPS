@@ -1,0 +1,6 @@
+X1000
+Dla filtrów o skoñczonej d³ugoœci odpowiedzi impulsowej
+stopieñ wielomianu w mianowniku wynosi zero
+stopieñ wielomianu w liczniku wynosi zero
+stopieñ wielomianu w liczniku wynosi jeden
+stopieñ wielomianu w mianowniku wynosi jeden

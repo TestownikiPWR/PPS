@@ -1,0 +1,5 @@
+X001
+Stabilnoœæ filtru/systemu w sensie BIBO oznacza, ¿e dla
+pobudzenia skokiem jednostkowym odpowiedŸ bêdzie skoñczona
+dla dowolnego sygna³u wejœciowego sygna³ wyjœciowy bêdzie skoñczony
+dla ka¿dego ograniczonego sygna³u wejœciowego, sygna³ wyjœciowy te¿ bêdzie ograniczony

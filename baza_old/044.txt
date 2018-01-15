@@ -1,0 +1,5 @@
+Y3111
+{wybór 1} jest ci¹g³¹ funkcj¹ czasu, której wszystkie wartoœci równe s¹ {wybór 2}, a jedynie dla t-0 wartoœæ funkcji wynosi {wybór 3}.
+Delta Diracka;;Sigma-Delta;;Delta Kroneckera;;
+0;;1;;nieskoñczonoœæ;;-nieskoñczonoœæ;;
+nieskoñczonoœæ;;-nieskoñczonoœæ;;0;;1;;

@@ -1,0 +1,6 @@
+X0010
+Okienkowanie sygna³u (nak³adanie funkcji okna) przed poddaniem go transformacji Fouriera stosuje siê, aby
+usun¹æ sk³adow¹ sta³¹
+usun¹æ szum zak³ócaj¹cy
+zmniejszyæ przeciek widma
+zwiêkszyæ czêstotliwoœæ próbkowania

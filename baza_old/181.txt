@@ -1,0 +1,6 @@
+X0100
+Probkowanie idealne (i z zachowaniem warunkow tw. Shanona) jest procesem:
+generalnie odwracalnym
+zawsze odwracalnym
+generalnie nieodwracalnym
+zawsze nieodwracalnym

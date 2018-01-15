@@ -1,0 +1,6 @@
+X1010
+Moc falki:
+jest skoncentrowana w pewnym przedziale czasu
+nie jest skoncentrowana w pewnym przedziale czasu
+jest skoncentrowana w pewnym przedziale czestotliwosci
+nie jest skoncentrowana w pewnym przedziale czestotliwosci

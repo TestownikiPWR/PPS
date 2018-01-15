@@ -1,0 +1,6 @@
+X0010
+Poprawny zapis operacji kwantowania 1D, przy zapisie wyniku w postaci ci¹gu liczb rzeczywistych odpowiadaj¹cych napiêciu, ma postaæ:
+[img]509A.jpg[/img]
+[img]509B.jpg[/img]
+[img]509C.jpg[/img]
+[img]509D.jpg[/img]

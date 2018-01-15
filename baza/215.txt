@@ -1,0 +1,9 @@
+X1111000
+Transformacja dwuliniowa wykorzystywana jest do projektowania filtrów cyfrowych
+o nieskoñczonej d³ugoœci impulsowej
+na podstawie filtrów analogowych
+Butterworth'a
+eliptycznych
+o skoñczonej d³ugoœci odpowiedzi impulsowej
+kratowych
+minimalnofazowych

@@ -1,0 +1,8 @@
+X000101
+Filtr jest nieminimalnofazowy gdy posiada :
+maksymalnie p³aski modu³ transmitancji
+minimaln¹ wartoœc sumy wspó³czynników odpowiedzi impulsowej
+wszystkie zera ulokowane wewn¹trz ko³a jednostkowego
+wybrane zera ulokowane na zewn¹trz okrêgu jednostkowego 
+minimalne z mo¿liwych zafalowania modu³u transmitancji
+wszystkie zera ulokowane na zewn¹trz okêgu jednostkowego

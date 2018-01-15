@@ -1,0 +1,9 @@
+X0111000
+[img]247.png[/img]
+system na pewno ma skoñczon¹ odpowiedŸ impulsow¹
+system mo¿e byæ generatorem
+system mo¿e byæ niestabilny w zwyk³ym sensie
+system mo¿e mieæ skoñczon¹ odpowiedŸ impulsow¹
+system jest stabilny w zwyk³ym sensie
+system na pewno ma nieskoñczon¹ odpowiedŸ impulsow¹
+system nie mo¿e byæ generatorem

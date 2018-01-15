@@ -1,0 +1,5 @@
+X001
+Na wyjsciu filtru innowacyjnego pojawia sie sygnal, ktory jest tzw.
+ró¿owym szumem
+nadfioletowym szumem
+bialym szumem

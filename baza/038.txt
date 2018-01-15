@@ -1,0 +1,4 @@
+Y223
+Próbkowanie to proces polegaj¹cy na {wybór 1}, przy czym {wybór 2}.
+przypisaniu próbkom dyskretnych poziomów;;pobieraniu próbek sygna³u co okreœlony kwant czasu;;próbowaniu czy sygna³ jest czy go nie ma;;
+iloœæ poziomów wynika z liczby bitów przetwornika;;brakowi sygna³u 0, a "obecnoœæ" sygna³u to poziom logiczny 1;;iloœæ próbek wynika z przyjêtego kwantu czasu (czêstotliwoœæ próbkowania);;

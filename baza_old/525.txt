@@ -1,0 +1,7 @@
+X10100
+Sygna³ losowy od deterministycznego ró¿ni siê tym, ¿e:
+nie da siê go opisaæ wzorem matematycznym
+mo¿na dla niego wyznaczyæ histogram
+nie jest znana jego przysz³oœæ
+jest noœnikiem informacji
+przyjmuje wiele wartoœci

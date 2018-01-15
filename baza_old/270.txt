@@ -1,0 +1,7 @@
+X11100
+Relacje miêdzy wyjœciem a wejœciem systemu liniowego inercyjnego niezmiennego w czasie dla czasu dyskretnego opisuje zale¿noœæ:
+[img]270A.png[/img]
+[img]270B.png[/img]
+[img]270C.png[/img]
+[img]270D.png[/img]
+[img]270E.png[/img]

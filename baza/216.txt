@@ -1,0 +1,6 @@
+X1000
+Transformacja dwuliniowa pozwala na przeliczenie
+po³o¿enia zer i biegunów z p³aszczyzny "s" na p³aszczyznê "z"
+po³o¿enia zer i biegunów z p³aszczyzny "z" na p³aszczyznê "s"
+po³o¿enia zer i biegunów filtru dolnoprzepustowego na dowolny inny
+po³o¿enia zer i biegunów filtru pasmowoprzepustowego na filtr pasmowozaporowy

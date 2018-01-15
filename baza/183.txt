@@ -1,0 +1,6 @@
+X1111
+W odbiorniku realizowane jest
+odtwarzanie noœnej
+rozpakowanie bloków i segmentów
+dekompresja
+filtracja odszumiaj¹ca

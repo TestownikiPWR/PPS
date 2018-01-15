@@ -1,0 +1,8 @@
+X010001
+Odpowiedü impulsowa opisuje:
+odpowiedü systemu na skok jednostkowy
+odpowiedü systemu na impuls Kronecker'a
+odpowiedü systemu na sygna≥ sinusoidalny o zadanej czÍstotliwoúci
+odpowiedü systemu na impuls Gibs'a
+odpowiedü systemu na funkcjÍ grzebieniowπ
+odpowiedü systemu na impuls Dirac'a
