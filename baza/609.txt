@@ -1,4 +1,4 @@
-X1000
+X0001
 Detektor MAP (maximum a posteriori probability) ró¿ni siê od detektora ML (maximum likelihood)
 uwzglêdnianiem ryzyka fa³szywej akceptacji
 innym sposobem wyznaczania rozk³adów prawdopodobieñstwa

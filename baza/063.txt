@@ -1,5 +1,5 @@
 X000001
-Twierdzenie ergodyczne dla wartoœci œredniej procesu z czasem dyskretnym ma postaæ UWAGA w odp poprawnej mo¿e byæ x(t):
+Twierdzenie ergodyczne dla wartoœci œredniej procesu z czasem dyskretnym ma postaæ
 [img]063A.png[/img]
 [img]063B.png[/img]
 [img]063C.png[/img]

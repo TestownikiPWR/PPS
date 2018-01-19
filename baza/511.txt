@@ -1,5 +1,5 @@
 X010000
-[img]pyt.png[/img]
+Poprawny wzór na obliczanie funkcji autokorelacji sygna³u deterministycznego w przestrzeni L2(0,T) ma postaæ
 [img]511A.png[/img]
 [img]511B.png[/img]
 [img]511C.png[/img]

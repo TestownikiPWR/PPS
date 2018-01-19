@@ -1,0 +1,6 @@
+X0010
+Metoda Cooleya 
+jest metod¹ podprzestrzeni
+wymaga estymacji parametrów modelu 
+u¿ywa okna czasowego
+jest modelem AR
