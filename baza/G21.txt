@@ -1,0 +1,6 @@
+X0010
+Do zbudowania grafu przep³ywu (struktury) filtru cyfrowego nie jest potrzebny element
+sumuj¹cy 2 próbki
+mno¿¹cy próbkê przez liczbê rzeczywist¹
+mno¿¹cy próbki
+opóŸniaj¹cy

@@ -1,0 +1,6 @@
+X0010
+Widmo sygna³u ci¹g³ego okresowego jest widmem:
+ci¹g³ym nieokresowym
+ci¹g³ym okresowym
+dyskretnym nieokresowym
+dyskretnym okresowym

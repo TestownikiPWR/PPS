@@ -1,6 +1,0 @@
-X1000
-Metody optymalizacyjne projektowania filtrów cyfrowych polegaj¹ na
-poszukiwaniu takich wartoœci wspó³czynników aby osi¹gn¹æ minimum funkcji kosztów
-znalezieniu takiej konfiguracji zer i biegunów, aby ich wzajemna odleg³oœæ by³a jak najmniejsza
-poszukiwaniu takich wartoœci wpó³czynników filtru aby szerokoœæ pasma przejœciowego by³a jak najmniejsza
-wybraniu takiej struktury filtracji, aby koszt obliczeñ by³ jak najmniejszy

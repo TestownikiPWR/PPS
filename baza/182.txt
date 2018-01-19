@@ -1,5 +1,5 @@
 X0010
-Je¿eli sygna³ zosta³ spróbkowany z czêstotliwoœci¹ f_s, to jego dyskretne widmo w dziedzinie czêstotliwoœci jest powielane na osi czêstotliwoœci co
+[img]182.png[/img]
 [img]182A.png[/img]
 [img]182B.png[/img]
 [img]182C.png[/img]

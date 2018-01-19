@@ -1,0 +1,6 @@
+X1000
+Jeœli R oznacza zbiór liczb rzeczywistych, a N - zbiór liczb ca³kowitych, to sygna³y dyskretne x(t) to takie sygna³y, dla których
+[img]H03A.png[/img]
+[img]H03B.png[/img]
+[img]H03C.png[/img]
+[img]H03D.png[/img]

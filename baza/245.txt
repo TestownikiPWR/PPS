@@ -1,5 +1,5 @@
 X1000
-Je¿eli czêstotliwoœci sygna³u telekomunikacyjnego mieszcz¹ siê w przedziale <112,120> [MHz] to najmniejsza mo¿liwa czêstotliwoœæ poprawnego próbkowania wynosi:
+[img]245.png[/img]
 16
 32
 8

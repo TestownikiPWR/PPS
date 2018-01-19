@@ -1,6 +1,0 @@
-X1000
-Szerokoœæ pasma przejœciowego filtru cyfrowego nie mo¿e byæ zerowa, poniewa¿
-liczba zer lub biegunów musia³aby byæ nieskoñczona
-przejœcie pomiêdzy pasmem przepustowym a zaporowym nie mo¿e siê odbywaæ w nieskoñczenie krótkim czasie
-taki filtr by³by filtrem nieprzyczynowym
-wzmocnienie takiego filtru by³oby nieskoñczenie wielkie

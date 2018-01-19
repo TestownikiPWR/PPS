@@ -1,6 +1,0 @@
-X1000
-Biegunów nie posiadaj¹
-filtry typu FIR
-filtry typu IIR
-filtry eliptyczne
-filtry Butterwoth'a

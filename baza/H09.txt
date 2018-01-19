@@ -1,0 +1,6 @@
+X1000
+Zaznacz prawdziwe stwierdzenie:
+ka¿dy wektor danej przestrzeni mo¿na otrzymaæ przez kombinacjê liniow¹ wektorów bazy
+ka¿dy wektor danej przestrzeni mo¿na otrzymaæ przez kombinacjê ortogonaln¹ wektorów bazy
+ka¿dy wektor danej przestrzeni mo¿na otrzymaæ przez kombinacjê ortogonaln¹ wektorów bazy
+ka¿dy wektor danej przestrzeni mo¿na otrzymaæ przez ortonormalizacjê tego wektora

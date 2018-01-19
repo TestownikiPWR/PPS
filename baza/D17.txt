@@ -1,0 +1,6 @@
+X0010
+Stabilnym systemem z czasem dyskretnym jest system:
+który nie posiada zer w kole jednostkowym
+który nie posiada biegunów w kole jednostkowym
+którego odpowiedŸ na ograniczone w wartoœciach pobudzenie jest ograniczona
+którego odpowiedŸ impulsowa jest skoñczona w czasie

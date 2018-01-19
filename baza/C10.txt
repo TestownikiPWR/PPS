@@ -1,0 +1,6 @@
+X0010
+Równomierne próbkowanie sygna³u analogowego mo¿e byæ przedstawione jako wymuszenie tego sygna³u przez sumê impulsów Diraca (funkcja grzebieniowa), która okreœlona jest zale¿noœci¹ (T jest odleg³oœci¹ pomiêdzy próbkami)
+[img]C10A.png[/img]
+[img]C10B.png[/img]
+[img]C10C.png[/img]
+[img]C10D.png[/img]

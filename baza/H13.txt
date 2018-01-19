@@ -1,0 +1,6 @@
+X0001
+Zaznacz poprawne formu³y opisuj¹ce splot w dziedzinie czasu. n,k oznaczaj¹ odpowiednio dyskretny czas i dyskretn¹ czêstotliwoœæ
+[img]H13A.png[/img]
+[img]H13B.png[/img]
+[img]H13C.png[/img]
+[img]H13D.png[/img]

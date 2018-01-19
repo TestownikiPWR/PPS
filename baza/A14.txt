@@ -1,0 +1,6 @@
+X0001
+Jaka jest czêstotliwoœæ m pr¹¿ka widma obliczonego przy pomocy N-punktowej DFT (fs - czêstotliwoœæ próbkowania)
+m/N
+fs*m
+N*fs/m
+m*fs/N

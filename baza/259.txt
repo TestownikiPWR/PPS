@@ -1,7 +1,0 @@
-X00100
-Zmienn¹ niezale¿n¹ modu³u transmitancji jest:
-czas
-przesuniêcie
-czêstotliwoœæ
-wartoœæ chwilowa
-amplituda

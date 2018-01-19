@@ -1,0 +1,8 @@
+X000010
+Relacje miêdzy wyjœciem, a wejœciem przyczynowego systemu liniowego inercyjnego niezmiennego w czasie dla czasu ci¹g³ego opisuje zale¿noœæ
+[img]G18A.png[/img]
+[img]G18B.png[/img]
+[img]G18C.png[/img]
+[img]G18D.png[/img]
+[img]G18E.png[/img]
+[img]G18F.png[/img]

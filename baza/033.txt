@@ -3,5 +3,5 @@ X00110
 s¹ liniow¹ kombinacj¹
 s¹ liniowo zale¿ne
 s¹ liniowo niezale¿ne
-mog¹ byæ elemntami bazy R^N
-stanowi¹ bazê przestrzeni R^N
+[img]033D.png[/img]
+[img]033E.png[/img]

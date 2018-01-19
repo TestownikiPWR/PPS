@@ -1,0 +1,6 @@
+X0010
+Motylkiem w szybkiej transformacji Fouriera nazywamy:
+podzia³ próbek na czêœæ parzyst¹ i nieparzyst¹
+rotacjê próbek w tej transformacji
+transformacjê dwupunktow¹
+ca³oœæ omawianego algorytmu FFT

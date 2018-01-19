@@ -1,0 +1,6 @@
+X0100
+Je¿eli sygna³ zosta³ spróbkowany z czêstotliwoœci¹ fs, to jego dyskretne widmo w dziedzinie czêstotliwoœci jest powielane co
+fs/2
+fs
+k = fs/2
+... fs/2 ... (lol co za odpowiedŸ XD)

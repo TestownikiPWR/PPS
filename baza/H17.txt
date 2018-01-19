@@ -1,0 +1,6 @@
+X0001
+OdpowiedŸ impulsowa systemu z czasem ci¹g³ym, dla zerowych warunków pocz¹tkowych, jest definiowana jako odpowiedŸ systemu na:
+impuls Gibsa
+impuls Kroneckera
+funkcjê grzbietow¹
+impuls Diraca

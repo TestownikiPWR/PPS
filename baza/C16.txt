@@ -1,0 +1,6 @@
+X0001
+OdpowiedŸ impulsowa systemu z czasem dyskretnym, dla zerowych warunków pocz¹tkowych, jest okreœlona jako odpowiedŸ systemu na
+sygna³ sinusoidalny o zadanej czêstotliwoœci
+skok jednostkowy
+impuls Gibsa
+impuls Kroneckera

@@ -1,0 +1,6 @@
+X0001
+Warunek odnoœnie maksymalnego t³umienia filtru cyfrowego dotyczy pasma
+zaporowego
+przejœciowego
+minimalnego
+przepustowego

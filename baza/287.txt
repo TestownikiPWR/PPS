@@ -1,4 +1,4 @@
-X010000
+X001000
 Motylkiem w szybkiej transformacji Fouriera nazywamy:
 podzia³ próbek na czêœæ parzyst¹ i nieparzyst¹
 rotacjê próbek w tej transformacji

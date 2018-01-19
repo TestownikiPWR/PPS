@@ -1,0 +1,6 @@
+X0010
+Filtr minimalnofazowy posiada:
+minimaln¹ wartoœæ sumy wspó³czynników odpowiedzi impulsowej
+maksymalnie p³aski modu³ transmitancji
+wszystkie zera ulokowane wewn¹trz ko³a jednostkowego
+wszystkie zera ulokowane na zewn¹trz ko³a jednostkowego

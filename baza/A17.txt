@@ -1,0 +1,6 @@
+X0100
+Systemy zmienne w czasie ró¿ni¹ siê od systemów niezmiennych w czasie tym, ¿e
+funkcja transmitancji jest funkcj¹ czêstotliwoœci
+odpowiedŸ impulsowa jest zale¿na od momentu pobudzenia systemu
+odpowiedŸ systemu w danej chwili czasu zale¿y jedynie od sygna³u na wejœciu w tej samej chwili czasu
+sygna³ na wyjœciu zmienia siê niezale¿nie od sygna³u wejœciowego

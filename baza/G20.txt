@@ -1,0 +1,6 @@
+X0001
+Warunkiem koniecznym stabilnoœci fltru cyfrowego jest
+zera transmitancji le¿¹ wewn¹trz ko³a jednostkowego
+zera i bieguny transmitancji le¿¹ wewn¹trz ko³a jednostkowego
+bieguny transmitancji le¿¹ w lewej pó³p³aszczyŸnie zmiennej zespolonej z
+bieguny transmitancji le¿¹ wewn¹trz ko³a jednostkowego

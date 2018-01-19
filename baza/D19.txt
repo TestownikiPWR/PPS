@@ -1,0 +1,6 @@
+X0001
+W definicji transformacji Z wielkoœæ z oznacza:
+liczbê rzeczywist¹
+funkcjê rzeczywist¹
+liczbê urojon¹
+liczbê zespolon¹

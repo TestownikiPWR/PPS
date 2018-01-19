@@ -1,0 +1,6 @@
+X1000
+Decymacja powoduje:
+zwiêkszenie odleg³oœci pomiêdzy próbkami
+zmniejszenie odleg³oœci pomiêdzy próbkami
+zmniejszenie wartoœci próbek
+zwiêkszania wartoœci próbek

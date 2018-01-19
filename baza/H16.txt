@@ -1,0 +1,6 @@
+X0010
+To, ¿e odpowiedŸ impulsowa systemu posiada niezerowe wartoœci tylko dla czasu wiêkszego lub równego zero jest warunkiem:
+stabilnoœci systemu
+niestabilnoœci systemu
+przyczynowoœci systemu
+wszechprzepustowoœci systemu

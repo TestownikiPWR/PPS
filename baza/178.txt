@@ -1,5 +1,5 @@
 X0100
-Jaka jest czêstotliwoœæ m-tego pr¹¿ka widma obliczonego przy pomocy N-punktowej DFT (f_s -- czêstotliwoœæ próbkowania) 
+[img]178.png[/img]
 [img]178A.png[/img]
 [img]178B.png[/img]
 [img]178C.png[/img]

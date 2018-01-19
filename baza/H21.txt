@@ -1,0 +1,6 @@
+X0010
+[img]H21.png[/img]
+oba filtry s¹ stabilne
+oba filtry s¹ niestabilne
+IIR1 jest stabilny
+IIR2 jest stabilny

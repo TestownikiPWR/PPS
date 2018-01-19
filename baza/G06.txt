@@ -1,0 +1,6 @@
+X1000
+Iloczyn skalarny dwóch wektorów A = (a1,a2,...,aN), B = (b1,b2,...,bN) prawid³owo okreœla zale¿noœæ
+[img]G06A.png[/img]
+[img]G06B.png[/img]
+[img]G06C.png[/img]
+[img]G06D.png[/img]

@@ -1,0 +1,6 @@
+X0010
+Od czego zale¿y liczba poziomów kwantyzacji przy przetwarzaniu analogowo-cyfrowym:
+od liczby próbek sygna³u
+od czêstotliwoœci próbkowania
+od d³ugoœci s³owa binarnego przetwornika
+od szumu kwantyzacji

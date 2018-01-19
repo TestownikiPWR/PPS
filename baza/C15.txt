@@ -1,0 +1,6 @@
+X0100
+Widmo sygna³u dyskretnego nieokresowego jest widmem
+ci¹g³ym nieokresowym
+ci¹g³ym okresowym
+dyskretnym nieokresowym
+dyskretnym okresowym

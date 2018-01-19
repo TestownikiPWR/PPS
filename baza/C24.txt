@@ -1,0 +1,6 @@
+X0100
+Okno inne, ni¿ prostok¹tne w metodzie projektowania filtrów FIR stosowane s¹ w celu
+zmniejszenia szerokoœci pasma przejœciowego
+likwidacji przecieku widma
+zmniejszenia t³umienia w paœmie zaporowym
+zwiêkszenia t³umienia w paœmie przepustowym

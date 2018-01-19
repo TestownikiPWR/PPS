@@ -1,0 +1,6 @@
+X1000
+Wra¿liwoœæ struktury filtru cyfrowego opisuje:
+wp³yw b³êdów zaokr¹gleñ na dok³adnoœæ filtracji
+wra¿liwoœæ struktury na przeprojektowanie filtru
+wra¿liwoœæ struktury na b³êdy kwantowania przetwarzanych sygna³ów
+wra¿liwoœæ struktury na b³êdy pope³nione na etapie projektowania filtru

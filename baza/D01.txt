@@ -1,0 +1,6 @@
+X0010
+Jeœli R oznacza zbiór liczb rzeczywistych a N - zbiór liczb ca³kowitych, to sygna³y ci¹g³e x(t) to takie sygna³y, dla których:
+[img]D01A.png[/img]
+[img]D01B.png[/img]
+[img]D01C.png[/img]
+[img]D01D.png[/img]

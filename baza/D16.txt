@@ -1,0 +1,6 @@
+X0100
+OdpowiedŸ impulsowa systemu z czasem dyskretnym, dla zerowych warunków pocz¹tkowych, jest definiowana jako odpowiedŸ systemu na:
+sygna³ sinusoidalny o zadanej czêstotliwoœci
+impuls Kroneckera
+funkcjê grzbietow¹
+impuls Diraca

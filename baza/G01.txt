@@ -1,0 +1,6 @@
+X0001
+Chwilowa wariancja sygna³u dyskretnego, z fragmentu o d³ugoœci T, dana jest zale¿noœci¹ (m jest wartoœci¹ œredni¹)
+[img]G01A.png[/img]
+[img]G01B.png[/img]
+[img]G01C.png[/img]
+[img]G01D.png[/img]

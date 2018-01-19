@@ -1,6 +1,0 @@
-X0001
-Dyskretna transformata Fouriera w przód zdefiniowana jest zale¿noœci¹
-[img]123A.png[/img]
-[img]123B.png[/img]
-[img]123C.png[/img]
-[img]123D.png[/img]

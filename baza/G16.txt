@@ -1,0 +1,6 @@
+X1000
+To, ¿e odpowiedŸ impulsowa systemu posiada niezerowe wartoœci tylko dla czasu wiêkszego lub równego zeru jest warunkiem
+przyczynowoœci systemu
+nie wprowadzenia przez system opóŸnienia
+minimalnofazowoœci systemu
+wszechprzepustowoœci systemu

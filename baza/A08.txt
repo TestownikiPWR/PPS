@@ -1,0 +1,6 @@
+X0100
+Zbiór elementów przestrzeni nazywamy liniowo-niezale¿nymi, jeœli
+[img]A08A.png[/img]
+[img]A08B.png[/img]
+[img]A08C.png[/img]
+[img]A08D.png[/img]

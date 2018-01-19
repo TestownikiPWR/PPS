@@ -1,0 +1,6 @@
+X0001
+Prawdziwe jest stwierdzenie:
+ka¿d¹ bazê nieortogonaln¹ mo¿na przekszta³ciæ w bazê ortonormaln¹
+ka¿dy zbiór elementów przestrzeni mo¿na przekszta³ciæ w zbiór liniowo-niezale¿ny
+procedura Grama-Schmidta przekszta³ca dowolny zbiór elementów przestrzeni w bazê ortogonaln¹
+procedura Grama-Schmidta przekszta³ca dowolny zbiór liniowo-niezale¿ny w bazê ortogonaln¹

@@ -1,0 +1,6 @@
+X0100
+Transformata Z jest równa transformacie Fouriera, jeœli
+z = 1
+|z| = 1
+|z| = 0
+|z| = nieskoñczonoœæ

@@ -1,7 +1,0 @@
-X10000
-Zaznacz tylko warunek konieczny, który pozwala okresliæ dany zbiór wektorów jako bazê przestrzeni.
-Wszystkie wektory s¹ linowo niezale¿ne wzglêdem siebie i stanowi¹ zbiór maksymalny w tej przestrzeni.
-Wszystkie wektory s¹ linowo niezale¿ne wzglêdem siebie, s¹ do siebie ortogonalne i stanowi¹ zbiór maksymalny w tej przestrzeni.
-Wszystkie wektory musz¹ byæ ortonormalne i linowo niezale¿ne wzglêdem siebie.
-Wszystkie wektory musz¹ byæ ortogonalne i linowo niezale¿ne wzglêdem siebie.
-Wszystkie wektory s¹ linowo zale¿ne wzglêdem siebie, s¹ do siebie prostopad³e i stanowi¹ zbiór maksymalny w tej przestrzeni. 

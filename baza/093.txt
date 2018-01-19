@@ -1,6 +1,0 @@
-X1000
-Widmo sygna³u dyskretnego okresowego jest widmem
-dyskretnym okresowym
-ci¹g³ym okresowym
-ci¹g³ym nieokresowym
-dyskretnym nieokresowym 

@@ -1,7 +1,0 @@
-X00111
-Relacje miêdzy wyjœciem a wejœciem systemu liniowego inercyjnego niezmiennego w czasie dla czasu ci¹g³ego opisuje zale¿noœæ
-[img]126A.png[/img]
-[img]126B.png[/img]
-[img]126C.png[/img]
-[img]126D.png[/img]
-[img]126E.png[/img]

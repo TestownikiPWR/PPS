@@ -1,0 +1,6 @@
+X1000
+[img]G08.png[/img]
+byæ zbiorem liniowo-niezale¿nym
+byæ zbiorem ortogonalnym
+byæ zbiorem ortonormalnym
+byæ zbiorem liniowo-zale¿nym

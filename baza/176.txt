@@ -1,0 +1,4 @@
+X10
+Funkcja, której znajomoœæ jest niezbêdna do wyznaczenia optymalnych parametrów kwantowania (tj. granic przedzia³ów i wartoœci reprezentuj¹cych dany przedzia³) to:
+funkcja gêstoœci pradopodobieñtwa sygna³u
+charakterystyka widmowa sygna³u

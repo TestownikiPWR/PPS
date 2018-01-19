@@ -1,0 +1,6 @@
+X0100
+Jeœli czêstotliwoœæ sygna³u sinusoidalnego wynosi 700Hz, a czêstotliwoœæ próbkowania wynosi 1000Hz, to czêstotliwoœæ sygna³u po próbkowaniu wystêpuj¹ca najbli¿ej zerowej czêstotliwoœci bêdzie wynosi³a:
+200Hz
+300Hz
+700Hz
+350Hz

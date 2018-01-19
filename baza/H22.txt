@@ -1,0 +1,6 @@
+X1000
+Warunek odnoœnie minimalnego t³umienia filtru cyfrowego dotyczy pasma:
+zaporowego
+przejœciowego
+minimalnego
+przepustowego

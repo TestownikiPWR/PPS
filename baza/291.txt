@@ -1,5 +1,5 @@
 X0010
-Je¿eli przerwonik A/D jest przetwonikiem 16 bitowym, to poziom szumu wzglêdem sygna³u przy pe³nym wysterowaniu przetwornika, wynosi ok:
+Je¿eli przetwornik A/D jest przetwornikiem 16 bitowym, to poziom szumu wzglêdem sygna³u przy pe³nym wysterowaniu przetwornika, wynosi ok:
 -60dB
 -80dB
 -100dB

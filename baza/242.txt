@@ -1,5 +1,5 @@
 X0010
-Je¿eli dysponujemy przetwornikiem 2-bitowym ACD pracuj¹cym w zakresie napiêæ <0,11> V i wiemy ¿e przyjêto równomiern¹/liniow¹ kwantyzacje oraz œrodek przedzia³u kwantyzacji jest umown¹ wartoœci¹ skwantowan¹ to jakie jest maksymalne napiêcie szumu kwantyzacji przetwornika ? Podaj wynik z dok³adnoœci¹ do 1 miejsca po przecinku.
+[img]242.png[/img]
 1,453
 1,355
 1,375

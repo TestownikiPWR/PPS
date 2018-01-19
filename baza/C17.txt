@@ -1,0 +1,6 @@
+X0001
+Stabilny system z czasem dyskretnym jest system
+który nie zmienia swoich w³aœciwoœci w czasie
+którego transmitancja nie zmienia siê w czasie
+któego odpowiedŸ impulsowa nie zmienia siê w czasie
+któego odpowiedŸ na ogarniczone w wartoœciach pobudzenie jest ograniczona

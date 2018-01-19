@@ -1,5 +1,5 @@
 X010
-Minimalizacje bledu kwantowania mozna zapewnic poprzez odpowiedni dobor poziomow kawntowania (granic przedzialow) oraz wartosci reprezentujacych dany przedzial. Dzieje sie tak:
+Minimalizacjê b³êdu kwantowania mo¿na zapewniæ poprzez odpowiedni dobór poziomów kawntowania (granic przedzia³ów) oraz wartoœci reprezentuj¹cych dany przedzia³. Dzieje siê tak:
 czasami
 zawsze
 nigdy

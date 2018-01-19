@@ -1,0 +1,6 @@
+X0100
+W przestrzeni L2(O,T) iloczyn skalarny dany jest zale¿noœci¹
+[img]G05A.png[/img]
+[img]G05B.png[/img]
+[img]G05C.png[/img]
+[img]G05D.png[/img]

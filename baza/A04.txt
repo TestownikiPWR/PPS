@@ -1,0 +1,6 @@
+X0010
+Metryka definiowana w przestrzeniach metrycznych
+jest funkcj¹ jednej zmiennej
+jest miar¹ d³ugoœci wektora
+jest miar¹ odleg³oœci pomiêdzy elementami przestrzeni
+jest zawsze dodatnia

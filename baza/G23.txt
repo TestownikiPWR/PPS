@@ -1,0 +1,6 @@
+X0100
+Bieguny posiadaj¹
+filtry typu FIR
+filtry typu IIR
+filtry projektowane metod¹ okna
+filtry o strukturze bezpoœredniej

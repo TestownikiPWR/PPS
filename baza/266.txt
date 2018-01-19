@@ -1,7 +1,0 @@
-X00100
-Poziom¹ osi¹ wykresu widma amplitudowego jest oœ:
-czasu
-przesuniêcia
-czêstotliwoœci
-wartoœci chwilowej
-amplitudy

@@ -1,0 +1,6 @@
+X0010
+Modu³ widma sygna³u rzeczywistego dyskretnego o d³ugoœci N jest (do sprawdzenia)
+funkcj¹ nieparzyst¹
+funkcj¹ o wartoœciach zespolonych
+funkcj¹ o wartoœciach dodatnich
+funkcj¹ o wartoœciach z zakresu [O,N]

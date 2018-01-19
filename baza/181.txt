@@ -1,5 +1,5 @@
 X0100
-Probkowanie idealne (i z zachowaniem warunkow tw. Shanona) jest procesem:
+Próbkowanie idealne (i z zachowaniem warunków twierdzenia Shannona) jest procesem:
 generalnie odwracalnym
 zawsze odwracalnym
 generalnie nieodwracalnym

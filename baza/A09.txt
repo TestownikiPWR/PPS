@@ -1,0 +1,6 @@
+X1000
+Zaznacz prawdziwe stwierdzenia dla przestrzeni R5
+liczba wektorów bazy równa siê 5, a liczba wektorów pozosta³ych jest nieskoñczona
+rozmiar (iloœæ wspó³rzêdnych) wektorów bazy równa siê 5, a rozmiar wektorów pozosta³ych jest nieskoñczony
+liczba wektorów bazy jest nieskoñczona, a liczba wektorów pozosta³ych jest równa 5
+rozmiar (iloœæ wspó³rzêdnych) wektorów bazy jest nieskoñczony a liczba wektorów bazy wynosi 5

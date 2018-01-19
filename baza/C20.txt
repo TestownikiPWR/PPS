@@ -1,0 +1,6 @@
+X1000
+Funkcja transmitancji filtru cyfrowego ma postaæ
+[img]C20A.png[/img]
+[img]C20B.png[/img]
+[img]C20C.png[/img]
+[img]C20D.png[/img]

@@ -1,6 +1,0 @@
-X0100
-Widmo sygna³u ci¹g³ego okresowego jest widmem
-dyskretnym okresowym
-dyskretnym nieokresowym
-ci¹g³ym okresowym
-ci¹g³ym nieokresowym

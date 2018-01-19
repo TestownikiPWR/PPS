@@ -1,0 +1,6 @@
+X0010
+Okna inne ni¿ prostok¹tne w metodzie projektowania filtrów FIR stosowane s¹ w celu:
+zmniejszenia t³umienia w paœmie zaporowym
+zmniejszenia szerokoœci pasma przejœciowego
+likwidacji przecieku widma
+zwiêkszenia t³umienia w paœmie przepustowym

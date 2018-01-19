@@ -1,0 +1,6 @@
+X0010
+Filtry typu FIR (o skoñczonej d³ugoœci odpowiedzi impulsowej):
+posiadaj¹ liniow¹ fazê
+nie posiadaj¹ zer
+s¹ zawsze stabilne
+s¹ filtrami adaptacyjnymi

@@ -1,0 +1,6 @@
+X0010
+Przyk³adem nieci¹g³ego sygna³u deterministycznego jest:
+funkcja Sa
+sygna³ sinusoidalny
+sygna³ prostok¹tny
+sygna³ sta³y

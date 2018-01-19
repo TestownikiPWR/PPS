@@ -1,0 +1,6 @@
+X0001
+Jedn¹ z metod projektowania filtrów o skoñczonej d³ugoœci odpowiedzi impulsowej jest metoda
+projekcji ortogonalnej
+skoñczonych iteracji
+transformacji dwuliniowej
+okna

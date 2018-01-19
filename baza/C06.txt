@@ -1,0 +1,6 @@
+X0100
+W definicji normy w dowolnej przestrzeni wystêpuje/wystêpuj¹
+dwa elementy przestrzeni
+jeden element przestrzeni
+wektor i skalar
+dwa skalary

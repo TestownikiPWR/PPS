@@ -1,6 +1,0 @@
-X1000
-[img]281.jpg[/img]
-IIR1 jest stabilny
-IIR2 jest stabilny
-oba filtry s¹ stabline
-oba filtry s¹ niestabilne

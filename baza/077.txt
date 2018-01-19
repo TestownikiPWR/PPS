@@ -1,0 +1,8 @@
+X001000
+Modulacja QAM charakteryzuje siê
+kluczowaniem cz¹stotliwoœci
+kluczowaniem fazy
+jednoczesnym kluczowaniem amplitudy i fazy
+kluczowaniem amplitudy
+jednoczesnym kluczowaniem amplitudy i czêstotliwoœci
+jednoczesnym kluczowaniem cz¹stotliwoœci i fazy 	

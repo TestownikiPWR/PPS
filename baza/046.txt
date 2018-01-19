@@ -1,0 +1,7 @@
+X01000
+Modulacje cyfrowe ró¿ni¹ siê od modulacji analogowych tym, ¿e
+sygna³ modulowany jest sygna³em cyfrowym
+sygna³ moduluj¹cy jest sygna³em cyfrowym
+przez kana³ telekomunikacyjny przesy³any jest sygna³ cyfrowy
+przez kana³ telekomunikacyjny przesy³any jest sygna³ dyskretny
+sygna³ przesy³any jest przez kana³ cyfrowy 

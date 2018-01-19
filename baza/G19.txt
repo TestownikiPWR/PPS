@@ -1,0 +1,6 @@
+X0010
+Filtry typu IIR (o nieskoñczonej d³ugoœci odpowiedzi impulsowej)
+posiadaj¹ liniow¹ fazê
+nie posiadaj¹ biegunów
+posiadaj¹ zera i bieguny
+s¹ zawsze stabilne

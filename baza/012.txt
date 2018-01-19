@@ -1,6 +1,0 @@
-X0001
-[img]012.png[/img]
-Rozmiar (iloœæ wspó³rzêdnych) wektorów bazy równa siê 5 a rozmiar wektorów pozosta³ych jest nieskoñczony
-Rozmiar (iloœæ wspó³rzêdnych) wektorów bazy jest nieskoñczony a liczba wektorów bazy wynosi 5
-Liczba wektorów bazy jest nieskoñczona a liczba wektorów pozosta³ych jest równa 5
-Liczba wektorów bazy równa siê 5 a liczba wektorów pozosta³ych jest nieskoñczona

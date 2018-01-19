@@ -1,0 +1,6 @@
+X0001
+Szerokoœæ pasma przejœciowego filtru cyfrowego nie mo¿e byæ zerowa poniewa¿:
+filtr by³by niestabilny
+filtr posiada³by bieguny poza okrêgiem jednostkowym
+wzmocnienie takiego filtru by³oby nieskoñczenie du¿e
+taki filtr by³by filtrem nieprzyczynowym

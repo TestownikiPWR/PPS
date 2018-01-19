@@ -1,0 +1,6 @@
+X1000
+Zwielokrotnienie TDMA (Time Division Multiple Access) oznacza
+jednoczesn¹ pracê wielu u¿ytkowników na tej samej czêstotliwoœci
+jednoczesn¹ pracê wielu u¿ytkowników w tym samym czasie na zmieniaj¹cych siê czêstotliwoœciach
+jednoczesn¹ pracê wielu u¿ytkowników z wykorzystaniem ró¿nych kodów dostêpu
+jednoczesna pracê wielu u¿ytkowników na tej samej czêstotliwoœci i w tym samym czasie 	

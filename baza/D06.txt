@@ -1,0 +1,6 @@
+X0001
+W definicji iloczynu skalarnego w dowolnej przestrzeni wystêpuje / wystêpuj¹:
+jeden element przestrzeni
+wektor i skalar
+dwa skalary
+dwa elementy przestrzeni

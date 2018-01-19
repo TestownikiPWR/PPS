@@ -1,5 +1,5 @@
 X001
 Próbkowanie to proces polegaj¹cy na:
 przypisaniu próbkom dyskretnych poziomów  
-próbkowaniu czy sygnal jest czy go nie ma 
+próbkowaniu, czy sygna³ jest czy go nie ma 
 pobieraniu próbek co okreœlony kwant czasu

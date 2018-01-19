@@ -1,0 +1,6 @@
+X0100
+Chwiliowa wartoœæ œrednia m, sygna³u ci¹g³ego, z fragment o d³ugoœci T, dana jest zale¿noœci¹
+[img]A02A.png[/img]
+[img]A02B.png[/img]
+[img]A02C.png[/img]
+[img]A02D.png[/img]

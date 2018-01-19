@@ -1,0 +1,6 @@
+X0010
+Biegunów nie posiadaj¹
+filtry eliptyczne
+filtry typu IIR
+filtry projektowane metod¹ okna
+filtry Butterwortha

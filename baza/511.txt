@@ -1,7 +1,7 @@
 X01000
-Szerokoœæ pasma przejœciowego w cyfrowym dolnoprzepustowym filtrze Butterwortha zale¿y od:
+Szerokoœæ pasma przejœciowego w cyfrowym, dolnoprzepustowym filtrze Butterwortha zale¿y od:
 liczby zer
 kszta³tu okna
 liczby pasm czêstotliwoœci
 liczby biegunów
-d³ugoœæ odpowiedzi impulsowej
+d³ugoœci odpowiedzi impulsowej

@@ -1,0 +1,6 @@
+X0100
+Decymacja powoduje
+zwiêkszenie czêstotliwoœci próbkowania
+zwiêkszenie odleg³oœci pomiêdzy próbkami
+zmniejszenie odleg³oœci pomiêdzy próbkami
+zmniejszenie wartoœci próbek

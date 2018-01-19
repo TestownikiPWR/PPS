@@ -1,0 +1,6 @@
+X0100
+Funkcja transmitancji filtru cyfrowego ma postaæ:
+[img]D20A.png[/img]
+[img]D20B.png[/img]
+[img]D20C.png[/img]
+[img]D20D.png[/img]

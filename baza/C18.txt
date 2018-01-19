@@ -1,0 +1,6 @@
+X0100
+Relacje miêdzy wyjœciem a wejœciem przyczynowego systemu liniowego inercyjnego niezmiennego w czasie dla czasu dyskretnego opisuje zale¿noœæ
+[img]C18A.png[/img]
+[img]C18B.png[/img]
+[img]C18C.png[/img]
+[img]C18D.png[/img]

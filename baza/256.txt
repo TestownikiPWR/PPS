@@ -1,4 +1,4 @@
 X10
 [img]256.png[/img]
-True
-False
+Prawda
+Fa³sz

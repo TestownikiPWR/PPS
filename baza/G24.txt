@@ -1,0 +1,6 @@
+X0001
+Metody optymalizacyjne projektowania filtrów polegaj¹ na (do sprawdzenia)
+poszukiwaniu takich wartoœci wspó³czynników filtru, aby szerokoœæ pasma przejœciowego by³a jak najmniejsza
+znalezieniu takiej konfiguracji zer i biegunów, aby ich wzajemna odleg³oœæ by³a jak najmniejsza
+wybraniu takiej struktury filtru, aby koszt obliczeñ by³ jak najmniejszy
+poszukiwaniu takich wartoœci wspó³czynników filtru, aby osi¹gn¹æ minimum funkcji kosztów

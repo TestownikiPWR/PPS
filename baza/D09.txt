@@ -1,0 +1,6 @@
+X1000
+Zaznacz tylko warunek konieczny, który pozwala okreœliæ dany zbiór wektorów jako bazê przestrzeni:
+wszystkie wektory s¹ liniowo niezale¿ne wzglêdem siebie i stanowi¹ zbiór maksymalny w tej przestrzeni
+wszystkie wektory s¹ liniowo niezale¿ne wzglêdem siebie, s¹ do siebie ortogonalne i stanowi¹ zbiór maksymalny w tej przestrzeni
+wszystkie wektory musz¹ byæ ortonormalne i liniowo niezale¿ne wzglêdem siebie
+wszystkie wektory musz¹ byæ ortogonalne i liniowo niezale¿ne wzglêdem siebie

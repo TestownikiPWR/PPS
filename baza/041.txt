@@ -1,6 +1,6 @@
 X0001
-Liczba próbek w algorytmie radix-2 obliczania szybkiej transformacji Fouriera musi byæ potêg¹ liczby 2 poniewa¿
-próbki dzielone s¹ na nieparzyste i parzyste i liczone s¹ transformaty z 2 podzbiorów próbek
+Liczba próbek w algorytmie Radix-2 (inaczej Algorytm Cooleya-Tukeya lub FFT) obliczania szybkiej transformacji Fouriera musi byæ potêg¹ liczby 2 poniewa¿
+próbki dzielone s¹ na nieparzyste i parzyste oraz liczone s¹ transformaty z 2 podzbiorów próbek
 jest to jedyna mo¿liwoœæ obliczenia transformacji
 za czêœæ próbek odpowiada funkcja sinus a za drug¹ czêœæ funkcja cosinus
-próbki dzielone s¹ na parzyste i nieparzyste a¿ do uzyskania podzbiorów 2-punktowych
+próbki dzielone s¹ na parzyste i nieparzyste, a¿ do uzyskania podzbiorów 2-punktowych
