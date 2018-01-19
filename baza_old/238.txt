@@ -1,6 +1,0 @@
-X0100
-Generator wytwarza sygna³ sinusoidalny  o czêstotliwoœci f=103 Hz. Sygan³ ten poddany zosta³ próbkowaniu. Pobrano 1024 próbek z czêstotliwoœci¹ próbkowania Fs=63 Hz(bez filstracji ). Jak¹ czêstotliwoœæ bêdzie mia³ sprobkowany sygna³ ?
-23
-43
-65
-12

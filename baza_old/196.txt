@@ -1,6 +1,0 @@
-X0100
-Równomierne (okresowe) próbkowanie sygna³u analogowego w dziedzinie czasu mo¿e byæ przedstawione jako wymno¿enie tego sygna³u przez sumê impulsów Diraca (funkcja grzebieniowa), czyli
-[img]196A.png[/img]
-[img]196B.png[/img]
-[img]196C.png[/img]
-[img]196D.png[/img]

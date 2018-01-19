@@ -1,4 +1,0 @@
-X01
-Wspó³czesne komputery s¹ w stanie zapamiêtaæ w pamiêci wszystkie wartoœci sygna³u ci¹g³ego.
-True
-False

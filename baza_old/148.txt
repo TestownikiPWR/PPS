@@ -1,6 +1,0 @@
-X0100
-Dla systemu inercyjnego przyczynowego
-jego odpowiedü jest minimalnofazowa
-jego odpowiedü zaleøy od aktualnej i poprzednich w czasie wartoúci pobudzenia
-jego odpowiedü zaleøy od poprzednich w czasie wartoúci pobudzenia
-jego odpowiedü zaleøy od aktualnej wartoúci pobudzenia

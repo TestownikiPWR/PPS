@@ -1,6 +1,0 @@
-X1010
-Falka jest sygna³em:
-którego energia jest skoncentrowana na ograniczonym odcinku czasu
-którego energia nie jest skoncentrowana na ograniczonym odcinku czasu
-którego energia jest skoncentrowana w ograniczonym paœmie czêstotliwoœci
-którego energia nie jest skoncentrowana w ograniczonym paœmie czêstotliwoœci

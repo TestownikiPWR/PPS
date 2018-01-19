@@ -1,6 +1,0 @@
-X0010
-Wyznaczanie wspó³czynników tranformacji falkowej polega na
-transformacji Fouriera
-obliczaniu normy
-obliczaniu iloczynu skalarnego
-obliczaniu metryki

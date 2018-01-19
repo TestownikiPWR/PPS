@@ -1,7 +1,0 @@
-X00100
-Poziom¹ osi¹ wykresu modu³u transmitancji jest oœ:
-czasu
-przesuniêcia
-czêstotliwoœci
-wartoœci chwilowej
-amplitudy

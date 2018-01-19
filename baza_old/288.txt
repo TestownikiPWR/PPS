@@ -1,6 +1,0 @@
-X0010
-Co wystêpuje w definicji iloczynu skalarnego?
-dwa skalary
-element przestrzeni
-dwa elementry przstrzeni
-element przesstrzeni i skalar

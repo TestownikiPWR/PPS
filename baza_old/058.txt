@@ -1,4 +1,0 @@
-X01
-[img]058.png[/img]
-True
-False

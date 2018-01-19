@@ -1,7 +1,0 @@
-X10000
-W projektowaniu filtrów cyfrowych unormowanie czêstotliwoœci oznacza normowanie czêstotliwoœci w hercach wzglêdem:
-czêstotliwoœci próbkowania
-normy odpowiedzi impulsowej
-d³ugoœci odpowiedzi impulsowej
-maksymalnej wartoœci odpowiedzi impulsowej
-czêstotliwoœci granicznej

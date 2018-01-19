@@ -1,7 +1,0 @@
-X10000
-Poziom¹ osi¹ wykresu odpowiedzi impulsowej jest oœ:
-czasu
-przesuniêcia
-czêstotliwoœci
-wartoœci chwilowej
-amplitudy

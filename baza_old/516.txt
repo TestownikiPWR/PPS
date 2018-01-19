@@ -1,6 +1,0 @@
-X1001
-Zaznacz zale¿noœci, które œwiadcz¹ o okresowoœci transformaty Fouriera sygna³u x(n) e R^N:
-X(k+N)=X(k), gdzie k to dyskretne czêstotliwoœci
-X(N+k)=X(N), gdzie k to dyskretne czêstotliwoœci
-X(k+M)=X(k), gdzie k to dyskretne czêstotliwoœci
-X(k-N)=X(k), gdzie k to dyskretne czêstotliwoœci

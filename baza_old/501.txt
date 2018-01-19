@@ -1,9 +1,0 @@
-X1100001
-Jakie w³aœciwoœci musi spe³niæ baza X^N?
-liniowo-niezale¿na
-liczba wektorów = N
-liczba wektorów > N
-liczba wektorów < N
-ortogonalna
-ortonormalna
-stanowi¹ zbiór maksymalny przestrzeni

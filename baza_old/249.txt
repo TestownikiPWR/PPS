@@ -1,8 +1,0 @@
-X010000
-Na podanym ni¿ej rysunku zaprezentowano widmow¹ gêstoœæ mocy sygna³u - widmo. Znana jest czêstotliwoœæ próbkowania sygna³u Fs=2000[Hz]. Zaznacz wszystkie prawid³owe obserwacje (rysunku niestety brak.)
-w œwiecie realnym nie wystêpuj¹ czêstotliwoœci ujemne, wiêc nie obserwujemy ich w widmie
-na sygna³ sk³adaj¹ siê cztery sygna³y o czêstotliwoœciach 200, 400, 600, 800 Hz i szum
-w œwiecie realnym nie wystêpuj¹ czêstotliwoœci ujemne a mimo to na wykresie czêstotliwoœci powy¿ej 500 Hz s¹ czêstotliwoœciami ujemnymi, gdy¿ widmo jest okresowe i symetryczne
-próbki prezentowanego sygna³u w dziedzinie czasu mia³y wartoœci rzeczywistei dlatego prezentowane widmo jest symetryczne
-na sygna³ sk³adaj¹ siê dwa sygna³y o czêstotliwoœciach 200, 400 Hz i szum
-próbki prezentowanego sygna³u w dziedzinie czasu mia³y wartoœci zespolone i dlatego prezentowane widmo jest symetryczne

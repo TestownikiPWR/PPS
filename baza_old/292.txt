@@ -1,6 +1,0 @@
-X0100
-Je¿eli przerwonik A/D jest przetwonikiem 12 bitowym, to poziom szumu wzglêdem sygna³u przy pe³nym wysterowaniu przetwornika, wynosi ok:
--50dB
--70dB
--90dB
--110dB

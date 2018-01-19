@@ -1,6 +1,0 @@
-X0010
-Modulacja QAM charakteryzuje siê wykorzystaniem
-dwóch noœnych o zbli¿onych czêstotliwoœciach przesuniêtych o 90st
-dwóch noœnych o tej samej czêstotliwoœci przesuniêtych o 180st
-dwóch noœnych o tej samej czêstotliwoœci przesuniêtych o 90st
-dwóch noœnych o zbli¿onych czêstotliwoœciach przesuniêtych o 180st

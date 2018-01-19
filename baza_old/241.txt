@@ -1,4 +1,0 @@
-X01
-Czy baza przestrzeni musi byæ ortogonalna (tak/nie)?
-tak
-nie

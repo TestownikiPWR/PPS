@@ -1,7 +1,0 @@
-X00001
-Je¿eli H0 oznacza hipotezê "szum", a H1 hipotezê "szum-sygna³", to prawdopodobieñstwo [img]524.jpg[/img] gdzie lambda jest progiem detekcji, oznacza:
-prawdopodobieñstwo fa³szywej akceptacji
-prawdopodobieñstwo poprawnego odrzucenia
-prawdopodobieñstwo fa³szywego odrzucenia
-prawdopodobieñstwo poprawnej akceptacji
-nie ma takiej miary

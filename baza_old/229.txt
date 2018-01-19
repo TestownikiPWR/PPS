@@ -1,7 +1,0 @@
-X11010
-Jeœli czêstotliwoœæ próbkowania sygna³u wynosi 1200Hz, to widmo amplitudowe prezentowane na wykresie mo¿e byæ widmem sygna³u sinusoidalnego czêstotliwoœci:
-500Hz
-700Hz
-800Hz
-1900Hz
-800Hz

@@ -1,9 +1,0 @@
-X0001011
-W "teorii sygna³ów" wyró¿nia siê nastêpuj¹ce klasy sygna³ów (uwzglêdniaj¹ce "naturê" sygna³ów, a nie ich zastosowanie):
-szumi¹ce 	
-bia³e 	
-kolorowe 	
-ci¹g³e	
-sumacyjne 	
-dyskretne 	
-cyfrowe 

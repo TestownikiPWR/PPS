@@ -1,8 +1,0 @@
-X010000
-Chwilowa wartoœæ œrednia m sygna³u deteministycznego ci¹g³ego z fragmentu o d³ugoœci T dana jest zale¿noœci¹:
-[img]506A.jpg[/img]
-[img]506B.jpg[/img]
-[img]506C.jpg[/img]
-[img]506D.jpg[/img]
-[img]506E.jpg[/img]
-[img]506F.jpg[/img]

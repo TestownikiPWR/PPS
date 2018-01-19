@@ -1,7 +1,0 @@
-X00111
-Modu³ funkcji transmitancji jest funkcj¹:
-nieparzyst¹
-zespolon¹
-parzyst¹
-rzeczywist¹
-dodatni¹
