@@ -1,4 +1,4 @@
-XOOOO1
+X00001
 Maksymalnie p³askim modu³em funkcji transmitancji charakteryzuje siê filtr
 Czebyszewa
 Hamminga
