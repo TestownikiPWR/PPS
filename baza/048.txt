@@ -1,4 +1,4 @@
-X00110
+X00010
 [img]048.png[/img]
 s¹ liniow¹ kombinacj¹
 s¹ liniowo ortonormalne
