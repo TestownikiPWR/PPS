@@ -1,6 +1,0 @@
-X1000
-Kombinacj¹ liniow¹ elementów nazywamy:
-wektor bêd¹cy sum¹ innych wektorów przestrzeni
-wektor bêd¹cy wa¿on¹ sum¹ innych wektorów przestrzeni
-zbiór wektorów liniowo niezale¿nych
-zbiór wektorów stanowi¹cych bazê
