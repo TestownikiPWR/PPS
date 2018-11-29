@@ -1,4 +1,4 @@
-X0001
+X1000
 Prawdziwe jest stwierdzenie:
 ka¿d¹ bazê nieortogonaln¹ mo¿na przekszta³ciæ w bazê ortonormaln¹
 ka¿dy zbiór elementów przestrzeni mo¿na przekszta³ciæ w zbiór liniowo-niezale¿ny
