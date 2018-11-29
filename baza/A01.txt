@@ -1,4 +1,4 @@
-X0100
+X0110
 Sygna³ losowy od deterministycznego ró¿ni siê tym, ¿e
 przyjmuje wiele wartoœci
 nie jest znana jego przysz³oœæ
