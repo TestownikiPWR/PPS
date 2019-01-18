@@ -1,0 +1,6 @@
+X0001
+Zmienn¹ / zmiennymi niezale¿nymi spektrogramu s¹:
+czêstotliwoœæ i amplituda
+czêstotliwoœæ
+czêstotliwoœæ i przesuniêcie
+czas i czêstotliwoœæ
