@@ -1,0 +1,6 @@
+X0100
+Nieskorelowanie procesów stacjonarnych definiuje warunek:
+Rxy(tau) = 0
+Cxy(tau) = 0
+Sxy(tau) = 0
+f(x, y, tau) = 0
