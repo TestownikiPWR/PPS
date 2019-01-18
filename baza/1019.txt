@@ -1,0 +1,6 @@
+X1000
+Minimalizacja prawdopodobieñstwa b³êdnej detekcji stosowana jest:
+zarówno w przypadku detekcji ML jak i MAP
+jedynie w przypadku detekcji MAP
+jedynie w przypadku detekcji ML
+zarówno w przypadku detekcji œredniokwadratowej jak i liniowej
