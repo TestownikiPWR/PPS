@@ -1,0 +1,6 @@
+X1000
+Na podstawie 4 próbek stacjonarnego procesu [3, 2, 1, -1] wyestymuj wartoœæ autokorelacji tego procesu dla przesuniêcia k = 2 miêdzy próbkami:
+R(2) = 0.5
+R(2) = -0.25
+R(2) = 0.75
+R(2) = 0.25
