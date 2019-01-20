@@ -1,0 +1,6 @@
+X1000
+Ile wynosi dystrybuanta pierwszego stopnia F(-[nieskonczonoœæ], t):
+0
+0.25
+0.5
+1
