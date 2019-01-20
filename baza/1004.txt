@@ -1,0 +1,6 @@
+X0010
+Niech f(x) to gêstoœæ prawdopodobieñstwa. Wtedy ca³ka od -inf do inf z f(x)dx jest równa:
+wynik nieznany, zale¿y od rozk³adu f(x)
+0
+1
+0.5
