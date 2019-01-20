@@ -1,0 +1,6 @@
+X0010
+Dystrybuanta I rzêdu F(+inf, t) jest równa:
+0.5
+0
+1
+-inf
