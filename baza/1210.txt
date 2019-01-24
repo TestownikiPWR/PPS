@@ -1,0 +1,6 @@
+X1000
+Rozwa¿amy system LTI o wejœciu x, wyjœciu y oraz odpowiedzi impulsowej h. Wtedy korelacja wzajemna wyra¿a siê wzorem:
+[img]1210A.png[/img]
+[img]1210B.png[/img]
+[img]1210C.png[/img]
+[img]1210D.png[/img]
