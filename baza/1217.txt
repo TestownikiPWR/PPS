@@ -1,0 +1,6 @@
+X1000
+Aby mo¿na by³o przeprowadziæ detekcjê, nale¿y znaæ:
+rozk³ady prawdopodobieñstwa dla hipotez
+korelacje wzajemne dla hipotez
+autokorelacje dla hipotez
+widma mocy dla hipotez
