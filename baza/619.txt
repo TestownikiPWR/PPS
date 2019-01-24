@@ -1,4 +1,4 @@
-X001000
+X000001
 Twierdzenie Neymana-Pearsona pozwala na
 wyznaczenie prawdopodobieñstwa a'priori
 wyznaczenie prawdopodobieñstwa fa³szywego odrzucenia
