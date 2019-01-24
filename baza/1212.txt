@@ -1,0 +1,6 @@
+X0100
+B³¹d œredniokwadratowy estymatora (MSE) to:
+suma kwadratu obci¹¿enia estymatora i kwadratu wariancji estymatora
+suma kwadratu obci¹¿enia estymatora i wariancji estymatora
+iloczyn kwadratu obci¹¿enia estymatora i kwadratu wariancji estymatora
+suma kwadratu obci¹¿enia estymatora i wariancji procesu
