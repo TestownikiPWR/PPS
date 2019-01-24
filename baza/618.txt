@@ -1,4 +1,4 @@
-X0001
+X0100
 Prototypem w transformacji falkowej nazywamy
 wielkoœæ obszaru jaki reprezentuje falka
 pojedyncz¹ falkê
