@@ -1,4 +1,4 @@
 X01
-Jeœli na wejœcie filtru modeluj¹cego podamy sygna³ bia³ego szumu (inny ni¿ sygna³ b³êdu filtru innowacyjnego) to na wyjœciu filtru modeluj¹cego pojawi sie sygna³, który jest zgodny z sygna³em na wejœciu filtru innowacyjnego
-"próbka w próbkê"
-tylko pod wzglêdem ststystyk drugiego rzêdu
+JeÅ›li na wejÅ›cie filtru modelujÄ…cego podamy sygnaÅ‚ biaÅ‚ego szumu (inny niÅ¼ sygnaÅ‚ bÅ‚Ä™du filtru innowacyjnego) to na wyjÅ›ciu filtru modelujÄ…cego pojawi sie sygnaÅ‚, ktÃ³ry jest zgodny z sygnaÅ‚em na wejÅ›ciu filtru innowacyjnego
+"prÃ³bka w prÃ³bkÄ™"
+tylko pod wzglÄ™dem statystyk drugiego rzÄ™du
