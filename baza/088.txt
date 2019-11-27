@@ -1,4 +1,4 @@
 Y233
-W przyrodzie wystêpuj¹ {wybór 1}. Sygna³y te charakteryzuj¹ siê tym, ¿e moj¹ przyjmowaæ {wybór 2} w ca³ym swoim zakresie.
-sygna³y dyskretne;;sygna³y cyfrowe;;sygna³y ci¹g³e;;sygna³y losowe;;
-tylko wybrane wartoœci;;cyfrowe wartoœci;;nieskoñczenie wiele wartoœci;;losowe wartoœci;;
+W przyrodzie wystÄ™pujÄ… {wybÃ³r 1}. SygnaÅ‚y te charakteryzujÄ… siÄ™ tym, Å¼e mogÄ… przyjmowaÄ‡ {wybÃ³r 2} w caÅ‚ym swoim zakresie.
+sygnaÅ‚y dyskretne;;sygnaÅ‚y cyfrowe;;sygnaÅ‚y ciÄ…gÅ‚e;;sygnaÅ‚y losowe;;
+tylko wybrane wartoÅ›ci;;cyfrowe wartoÅ›ci;;nieskoÅ„czenie wiele wartoÅ›ci;;losowe wartoÅ›ci;;
