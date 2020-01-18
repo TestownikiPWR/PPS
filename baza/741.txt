@@ -1,0 +1,5 @@
+X110
+Standaryzacja polega na:
+usuniêciu z sygna³u wartoœci œredniej (sk³adowej sta³ej)
+normowaniu
+dodaniu do sygna³u wartoœci œredniej (sk³adowej sta³ej)

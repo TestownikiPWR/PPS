@@ -1,0 +1,6 @@
+X1100
+[img]743.png[/img]
+zmiana a skutkuje œciskaniem/rozci¹ganiem falki
+zmiana b skutkuje przesuwaniem na osi czasu
+zmiana b skutkuje œciskaniem/rozci¹ganiem falki
+zmiana a skutkuje przesuwaniem na osi czasu

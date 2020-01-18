@@ -1,0 +1,5 @@
+X100
+Warunek wzajemnoœci autokorelacji i korelacji wzajemnej to:
+[img]716A.png[/img]
+[img]716B.png[/img]
+[img]716C.png[/img]

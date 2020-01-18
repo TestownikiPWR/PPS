@@ -1,0 +1,5 @@
+X010
+[img]728.png[/img]
+obci¹zeniem estymatora
+wariancj¹ estymatora
+wariancj¹ procesu

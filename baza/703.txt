@@ -1,0 +1,6 @@
+X1000
+[img]703.png[/img]
+statystykê procesu niestacjonarnego
+dopuszczalne odstêpstwo
+statystykê procesu stacjonarnego
+przedzia³ quasistacjonarnoœci

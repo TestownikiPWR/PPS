@@ -1,0 +1,5 @@
+X011
+Ograniczonoœæ autokorelacji i korelacji wzajemnej opisuje warunek:
+[img]716A.png[/img]
+[img]716B.png[/img]
+[img]716C.png[/img]

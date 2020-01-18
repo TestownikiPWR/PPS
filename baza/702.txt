@@ -1,0 +1,3 @@
+X1
+Proces jest lokalnie stacjonarny gdy:
+[img]702A.png[/img]

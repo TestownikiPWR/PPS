@@ -1,0 +1,6 @@
+X1000
+Warunek statystycznej niezale¿noœæi dla procesów stacjonarnych to:
+[img]711A.png[/img]
+[img]709B.png[/img]
+[img]708C.png[/img]
+[img]708D.png[/img]

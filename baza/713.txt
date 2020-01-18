@@ -1,0 +1,5 @@
+X100
+Korelacja wzajemna unormowana jest opisana wzorem:
+[img]713A.png[/img]
+[img]713B.png[/img]
+[img]713C.png[/img]

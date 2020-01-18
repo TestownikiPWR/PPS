@@ -1,0 +1,4 @@
+X11
+Proces jest stacjonarny rzêdu k jeœli:
+zmiana punktu obserwacji nie powoduje zmiany dystrybuanty do rzêdu k w³¹cznie
+[img]701A.png[/img]

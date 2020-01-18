@@ -1,0 +1,6 @@
+X0110
+[img]731.png[/img]
+Jest obci¹¿ony
+Jest nieobci¹¿ony
+Jest zgodny
+Nie jest zgodny

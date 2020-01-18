@@ -1,0 +1,7 @@
+X10011
+Po standaryzacji:
+Wartoœæ œrednia sygna³u = 0
+Wartoœæ œrednia sygna³u = 1
+Norma = 0
+Norma = 1
+Miar¹ podobieñstwa jest iloczyn skalarny (Alfa12=(y1,y2) - gdzie Alfa12 to wspó³czynnik korelacji)

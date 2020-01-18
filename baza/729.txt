@@ -1,0 +1,6 @@
+X0010
+Estymator efektywny jest wtedy gdy:
+Osi¹ga granicê polsko-japoñsk¹
+Osi¹ga granicê absurdu
+Osi¹ga granicê Cramera-Rao
+Osi¹ga granicê Promera-Ciao

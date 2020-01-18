@@ -1,0 +1,5 @@
+X100
+Korelacja wzajemna w systemie LTI wynosi:
+[img]721A.png[/img]
+[img]719B.png[/img]
+[img]716C.png[/img]

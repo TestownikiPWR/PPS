@@ -1,0 +1,6 @@
+X0100
+Prawdopodobieñstwo P(H0|H1) to:
+FAR
+FRR
+TAR
+TRR

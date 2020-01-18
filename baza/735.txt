@@ -1,0 +1,7 @@
+X10011
+Zbiór dopuszczalnych stanów {s1,...,sj} w detekcji jest:
+alfabetem
+liczyd³em
+abecad³em
+s³ownikiem
+skoñczoneym zbiorem próbek {x1,...,xN} (w czasach dominacji technik cyfrowych)

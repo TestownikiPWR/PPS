@@ -1,0 +1,6 @@
+X0001
+Metoda MUSIC jest metod¹:
+parametryczn¹
+nieparametryczn¹
+przestrzeni
+podprzestrzeni

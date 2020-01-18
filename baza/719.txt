@@ -1,0 +1,5 @@
+X100
+Model sygna³u odebranego dla radaru (2 odbicia) opisuje wzór:
+[img]719A.png[/img]
+[img]719B.png[/img]
+[img]716C.png[/img]

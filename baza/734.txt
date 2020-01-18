@@ -1,0 +1,6 @@
+X0100
+[img]734.png[/img]
+oknem czasowym
+oknem korelacyjnym
+oknem czêstotliwoœciowym
+oknem falki

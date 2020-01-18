@@ -1,0 +1,5 @@
+X100
+Twierdzenie ergodyczne dla autokorelacji to:
+[img]718A.png[/img]
+[img]716B.png[/img]
+[img]716C.png[/img]

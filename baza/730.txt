@@ -1,0 +1,5 @@
+X101
+[img]730.png[/img]
+Jest obci¹¿ony
+Jest nieobci¹¿ony
+[img]730A.png[/img]
